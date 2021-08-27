@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="-71 639 552 282" width="552" height="282">
+  <defs>
+    <font-face font-family="Fira Sans" font-size="12" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="934.9976" descent="-264.9994" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.15 
+    <dc:date>2018-06-01 15:20:22 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" fill="none" stroke-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_24">
+        <path d="M -38 640 L 58 640 C 59.10457 640 60 640.8954 60 642 L 60 698 C 60 699.1046 59.10457 700 58 700 L -38 700 C -39.10457 700 -40 699.1046 -40 698 L -40 642 C -40 640.8954 -39.10457 640 -38 640 Z" fill="white"/>
+        <path d="M -38 640 L 58 640 C 59.10457 640 60 640.8954 60 642 L 60 698 C 60 699.1046 59.10457 700 58 700 L -38 700 C -39.10457 700 -40 699.1046 -40 698 L -40 642 C -40 640.8954 -39.10457 640 -38 640 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(-38 656)" fill="black">
+          <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="16.89" y="11">Análisis del </tspan>
+          <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="21.828" y="25">problema</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <path d="M -38 750 L 58 750 C 59.10457 750 60 750.8954 60 752 L 60 808 C 60 809.1046 59.10457 810 58 810 L -38 810 C -39.10457 810 -40 809.1046 -40 808 L -40 752 C -40 750.8954 -39.10457 750 -38 750 Z" fill="white"/>
+        <path d="M -38 750 L 58 750 C 59.10457 750 60 750.8954 60 752 L 60 808 C 60 809.1046 59.10457 810 58 810 L -38 810 C -39.10457 810 -40 809.1046 -40 808 L -40 752 C -40 750.8954 -39.10457 750 -38 750 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(-38 766)" fill="black">
+          <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="19.146" y="11">Diseño del </tspan>
+          <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="21.69" y="25">algoritmo</tspan>
+        </text>
+      </g>
+      <g id="Line_22">
+        <line x1="10" y1="700" x2="10" y2="740.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_21">
+        <path d="M -38 860 L 58 860 C 59.10457 860 60 860.8954 60 862 L 60 918 C 60 919.1046 59.10457 920 58 920 L -38 920 C -39.10457 920 -40 919.1046 -40 918 L -40 862 C -40 860.8954 -39.10457 860 -38 860 Z" fill="white"/>
+        <path d="M -38 860 L 58 860 C 59.10457 860 60 860.8954 60 862 L 60 918 C 60 919.1046 59.10457 920 58 920 L -38 920 C -39.10457 920 -40 919.1046 -40 918 L -40 862 C -40 860.8954 -39.10457 860 -38 860 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(-38 876)" fill="black">
+          <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="6.228" y="11">Verificación del </tspan>
+          <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="21.69" y="25">algoritmo</tspan>
+        </text>
+      </g>
+      <g id="Line_20">
+        <line x1="10" y1="810" x2="10" y2="850.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_19">
+        <path d="M -40 890 L -70 890 L -70 720 L -4.9 720" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_18">
+        <line x1="60" y1="670" x2="120" y2="670" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_11">
+        <g id="Graphic_17">
+          <path d="M 122 640 L 478 640 C 479.10457 640 480 640.8954 480 642 L 480 698 C 480 699.1046 479.10457 700 478 700 L 122 700 C 120.89543 700 120 699.1046 120 698 L 120 642 C 120 640.8954 120.89543 640 122 640 Z" fill="white"/>
+          <path d="M 122 640 L 478 640 C 479.10457 640 480 640.8954 480 642 L 480 698 C 480 699.1046 479.10457 700 478 700 L 122 700 C 120.89543 700 120 699.1046 120 698 L 120 642 C 120 640.8954 120.89543 640 122 640 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_16">
+          <path d="M 372 650 L 468 650 C 469.10457 650 470 650.8954 470 652 L 470 688 C 470 689.1046 469.10457 690 468 690 L 372 690 C 370.89543 690 370 689.1046 370 688 L 370 652 C 370 650.8954 370.89543 650 372 650 Z" fill="white"/>
+          <path d="M 372 650 L 468 650 C 469.10457 650 470 650.8954 470 652 L 470 688 C 470 689.1046 469.10457 690 468 690 L 372 690 C 370.89543 690 370 689.1046 370 688 L 370 652 C 370 650.8954 370.89543 650 372 650 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(372 656)" fill="black">
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="9.522" y="11">Especificación </tspan>
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="20.562" y="25">de salidas</tspan>
+          </text>
+        </g>
+        <g id="Graphic_15">
+          <path d="M 252 650 L 348 650 C 349.10457 650 350 650.8954 350 652 L 350 688 C 350 689.1046 349.10457 690 348 690 L 252 690 C 250.89543 690 250 689.1046 250 688 L 250 652 C 250 650.8954 250.89543 650 252 650 Z" fill="white"/>
+          <path d="M 252 650 L 348 650 C 349.10457 650 350 650.8954 350 652 L 350 688 C 350 689.1046 349.10457 690 348 690 L 252 690 C 250.89543 690 250 689.1046 250 688 L 250 652 C 250 650.8954 250.89543 650 252 650 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(252 656)" fill="black">
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="9.522" y="11">Especificación </tspan>
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="15.636" y="25">de entradas</tspan>
+          </text>
+        </g>
+        <g id="Graphic_14">
+          <path d="M 132 650 L 228 650 C 229.10457 650 230 650.8954 230 652 L 230 688 C 230 689.1046 229.10457 690 228 690 L 132 690 C 130.89543 690 130 689.1046 130 688 L 130 652 C 130 650.8954 130.89543 650 132 650 Z" fill="white"/>
+          <path d="M 132 650 L 228 650 C 229.10457 650 230 650.8954 230 652 L 230 688 C 230 689.1046 229.10457 690 228 690 L 132 690 C 130.89543 690 130 689.1046 130 688 L 130 652 C 130 650.8954 130.89543 650 132 650 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(132 656)" fill="black">
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="10.422" y="11">Definición del </tspan>
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="21.828" y="25">problema</tspan>
+          </text>
+        </g>
+        <g id="Line_13">
+          <path d="M 230 670 L 237 670 L 240 670 L 243 670 L 250 670" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_12">
+          <path d="M 350 670 L 357 670 L 360 670 L 363 670 L 370 670" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Line_10">
+        <line x1="60" y1="780" x2="120" y2="780" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_3">
+        <g id="Graphic_9">
+          <path d="M 122 750 L 478 750 C 479.10457 750 480 750.8954 480 752 L 480 808 C 480 809.1046 479.10457 810 478 810 L 122 810 C 120.89543 810 120 809.1046 120 808 L 120 752 C 120 750.8954 120.89543 750 122 750 Z" fill="white"/>
+          <path d="M 122 750 L 478 750 C 479.10457 750 480 750.8954 480 752 L 480 808 C 480 809.1046 479.10457 810 478 810 L 122 810 C 120.89543 810 120 809.1046 120 808 L 120 752 C 120 750.8954 120.89543 750 122 750 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_8">
+          <path d="M 372 760 L 468 760 C 469.10457 760 470 760.8954 470 762 L 470 798 C 470 799.1046 469.10457 800 468 800 L 372 800 C 370.89543 800 370 799.1046 370 798 L 370 762 C 370 760.8954 370.89543 760 372 760 Z" fill="white"/>
+          <path d="M 372 760 L 468 760 C 469.10457 760 470 760.8954 470 762 L 470 798 C 470 799.1046 469.10457 800 468 800 L 372 800 C 370.89543 800 370 799.1046 370 798 L 370 762 C 370 760.8954 370.89543 760 372 760 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(372 766)" fill="black">
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="5.664" y="11">Representación </tspan>
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="11.484" y="25">del algoritmo</tspan>
+          </text>
+        </g>
+        <g id="Graphic_7">
+          <path d="M 252 760 L 348 760 C 349.10457 760 350 760.8954 350 762 L 350 798 C 350 799.1046 349.10457 800 348 800 L 252 800 C 250.89543 800 250 799.1046 250 798 L 250 762 C 250 760.8954 250.89543 760 252 760 Z" fill="white"/>
+          <path d="M 252 760 L 348 760 C 349.10457 760 350 760.8954 350 762 L 350 798 C 350 799.1046 349.10457 800 348 800 L 252 800 C 250.89543 800 250 799.1046 250 798 L 250 762 C 250 760.8954 250.89543 760 252 760 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(252 766)" fill="black">
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="11.76" y="11">Refinamiento </tspan>
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="24.762" y="25">sucesivo</tspan>
+          </text>
+        </g>
+        <g id="Graphic_6">
+          <path d="M 132 760 L 228 760 C 229.10457 760 230 760.8954 230 762 L 230 798 C 230 799.1046 229.10457 800 228 800 L 132 800 C 130.89543 800 130 799.1046 130 798 L 130 762 C 130 760.8954 130.89543 760 132 760 Z" fill="white"/>
+          <path d="M 132 760 L 228 760 C 229.10457 760 230 760.8954 230 762 L 230 798 C 230 799.1046 229.10457 800 228 800 L 132 800 C 130.89543 800 130 799.1046 130 798 L 130 762 C 130 760.8954 130.89543 760 132 760 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(132 773)" fill="black">
+            <tspan font-family="Fira Sans" font-size="12" font-weight="400" fill="black" x="4.728" y="11">Diseño modular</tspan>
+          </text>
+        </g>
+        <g id="Line_5">
+          <path d="M 230 780 L 237 780 L 240 780 L 243 780 L 250 780" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_4">
+          <path d="M 350 780 L 357 780 L 360 780 L 363 780 L 370 780" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
