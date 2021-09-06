@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="298 86 192 331" width="192" height="331">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-2 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 1.5 0 L -.9 -.9 L 0 0 L 0 0 L -.9 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="JetBrains Mono" font-size="14" panose-1="2 0 0 9 0 0 0 0 0 0" units-per-em="1000" underline-position="-155" underline-thickness="50" slope="0" x-height="550" cap-height="730" ascent="1020.0043" descent="-300.00305" font-weight="300">
+      <font-face-src>
+        <font-face-name name="JetBrainsMono-Light"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2021-09-03 05:23:06 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_22">
+        <path d="M 368.4405 87.5 C 366.8735 98.36242 368.27107 96.41729 368.58486 115.7045 M 368.4405 87.5 C 367.3735 97.86242 368.77107 95.91729 369.08486 115.2045" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_23">
+        <path d="M 368.5 199 L 436 234.25 L 368.5 269.5 L 301 234.25 Z" fill="white"/>
+        <path d="M 368.22583 198.85433 L 436.12244 234.93032 M 435.94503 234.5784 L 367.6878 269.87317 M 368.43687 269.8521 L 300.64428 234.08465 M 300.67698 234.9013 L 368.90602 198.78508 M 368.3847 198.66558 L 435.86845 234.49736 M 436.0719 234.45699 L 368.23454 269.5871 M 368.53605 269.776 L 301.54 234.41068 M 300.7783 234.73159 L 368.59975 198.8273" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(324.225 224.545)" fill="black">
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="3.625" y="14">Exception?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <rect x="323.5" y="122" width="90" height="36" fill="white"/>
+        <path d="M 322.83187 122.001 L 414.40235 121.86397 M 413.96077 121.02335 L 413.06984 158.71672 M 413.5583 158.41343 L 323.23185 157.85574 M 323.73984 158.85103 L 323.4954 121.29127 M 322.95677 121.81244 L 414.06585 121.71654 M 414.1201 120.89916 L 413.30757 158.28795 M 413.68314 158.31294 L 323.85792 157.8083 M 323.79988 158.72645 L 323.5458 121.87552" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(328.5 131)" fill="black">
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="23.2" y="14">try…</tspan>
+        </text>
+      </g>
+      <g id="Line_26">
+        <path d="M 368.5 158 C 368.0516 168.26758 368.1043 175.20296 368.6556 191.58983 M 368.5 158 C 368.5516 167.76758 368.6043 174.70296 369.1556 191.08983" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_28">
+        <rect x="323.5" y="310.5" width="90" height="36" fill="white"/>
+        <path d="M 322.67036 310.5002 L 413.98817 310.47833 M 413.55314 309.91455 L 413.5635 347.61843 M 414.54674 346.7755 L 323.2678 346.77063 M 323.93883 347.2175 L 323.49602 310.16725 M 322.79534 310.26207 L 413.67827 310.24932 M 413.6954 309.78955 L 413.75114 346.65045 M 414.67174 346.6913 L 324.0585 346.71044 M 323.9773 347.09355 L 323.50795 310.3764" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(328.5 319.5)" fill="black">
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="10.6" y="14">Except…</tspan>
+        </text>
+      </g>
+      <g id="Line_30">
+        <path d="M 368.5101 268.62545 L 368.08015 305.8095 M 368.9691 268.37787 L 368.406 304.726" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_32">
+        <path d="M 368.4405 349 C 366.17565 360.09814 369.5529 387.6124 368.14346 409.5104 M 368.4405 349 C 366.67565 359.59814 370.0529 387.1124 368.64346 409.0104" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_33">
+        <path d="M 434.8026 234.27306 L 488.55564 233.23773 M 487.79616 231.5507 L 486.02817 371.28493 M 487.68166 370.31313 L 374.22176 370.12205 M 435.0515 233.9649 L 488.02023 232.77463 M 488.10715 231.30147 L 486.44076 370.06226 M 487.93157 370.11568 L 375.3499 370.0541" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

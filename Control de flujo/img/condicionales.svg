@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="140 -256 744 245" width="744" height="245">
+  <defs>
+    <font-face font-family="Bradley Hand" font-size="18" panose-1="0 0 7 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-166" underline-thickness="61" slope="0" x-height="494" cap-height="543" ascent="850.0061" descent="-399.00208" font-weight="700" font-stretch="expanded">
+      <font-face-src>
+        <font-face-name name="BradleyHandITCTT-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="JetBrains Mono" font-size="14" panose-1="2 0 0 9 0 0 0 0 0 0" units-per-em="1000" underline-position="-155" underline-thickness="50" slope="0" x-height="550" cap-height="730" ascent="1020.0043" descent="-300.00305" font-weight="300">
+      <font-face-src>
+        <font-face-name name="JetBrainsMono-Light"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2021-09-03 04:53:05 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_68">
+        <rect x="141.2" y="-255" width="741.8" height="243" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4">
+        <path d="M 412.30545 -210 C 366.5556 -199.51242 295.23234 -186.35737 262.02898 -176.1 M 412.30545 -210 C 367.0556 -200.01242 295.73234 -186.85737 262.52898 -176.6" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_22">
+        <text transform="translate(411.456 -237)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="36948222e-20" y="15">Condicionales</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <text transform="translate(209.305 -171.1)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="0" y="15">simple</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(447.159 -171.1)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="8455459e-19" y="15">doble</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <path d="M 466.3845 -210 C 467.34506 -200.4372 467.0297 -188.13249 466.9663 -176.1 M 466.3845 -210 C 467.84506 -200.9372 467.5297 -188.63249 467.4663 -176.6" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_62">
+        <text transform="translate(146.2 -139.1)" fill="black">
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="0" y="14">if x &gt; 0:</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="white" x="0" y="32">____</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" y="32">print(‘es positivo’)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_63">
+        <text transform="translate(662.683 -171.1)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="0" y="15">anidada compacta</tspan>
+        </text>
+      </g>
+      <g id="Line_64">
+        <path d="M 527.156 -210.29937 C 586.4569 -196.58672 659.3546 -186.8135 703.5708 -176.1 M 527.156 -210.29937 C 586.9569 -197.08672 659.8546 -187.3135 704.0708 -176.6" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_65">
+        <text transform="translate(366.906 -139.1)" fill="black">
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="0" y="14">if x &gt; 0:</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="white" x="0" y="32">____</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" y="32">print(‘es positivo’)</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="0" y="50">else:</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="white" x="0" y="68">____</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" y="68">print(‘no es positivo’)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_66">
+        <text transform="translate(645.631 -139.1)" fill="black">
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="0" y="14">if x &gt; 0:</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="white" x="0" y="32">____</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" y="32">print(‘es positivo’)</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="0" y="50">elif x &lt; 0:</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="white" x="0" y="68">____</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" y="68">print(‘no negativo’)</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="0" y="86">else:</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="white" x="0" y="104">____</tspan>
+          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" y="104">print(‘es cero’)</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

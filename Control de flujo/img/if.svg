@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="321 13 145 179" width="145" height="179">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-2 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 1.5 0 L -.9 -.9 L 0 0 L 0 0 L -.9 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Bradley Hand" font-size="18" panose-1="0 0 7 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-166" underline-thickness="61" slope="0" x-height="494" cap-height="543" ascent="850.0061" descent="-399.00208" font-weight="700" font-stretch="expanded">
+      <font-face-src>
+        <font-face-name name="BradleyHandITCTT-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2021-09-03 04:54:20 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_22">
+        <path d="M 368.4405 14.7 C 366.8735 25.562424 368.27107 23.617294 368.58486 42.904496 M 368.4405 14.7 C 367.3735 25.062424 368.77107 23.117294 369.08486 42.404496" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_23">
+        <path d="M 368.5 49.2 L 413.5 67.2 L 368.5 85.2 L 323.5 67.2 Z" fill="white"/>
+        <path d="M 368.21303 49.08152 L 413.6422 67.838355 M 413.4568 67.55438 L 367.6687 85.53107 M 368.4536 85.51617 L 323.10666 67.11551 M 323.1414 67.77526 L 368.92513 49.0259 M 368.3656 48.8898 L 413.3602 67.443476 M 413.58327 67.433125 L 368.2298 85.28924 M 368.5578 85.44242 L 324.04355 67.36234 M 323.2472 67.603435 L 368.60455 49.025063" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(340.65 55.84)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="25.222" y="15">?</tspan>
+        </text>
+      </g>
+      <g id="Line_24">
+        <path d="M 411.77144 67.1884 L 462.14037 67.52646 M 461.1813 65.65203 L 462.2304 171.84644 M 463.8505 171.08088 L 379.47346 171.63284 M 412.0215 66.92766 L 461.45137 67.0279 M 461.5946 65.40042 L 462.62907 170.83999 M 464.10184 171.0357 L 381.11866 171.61246" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_25">
+        <rect x="323.5" y="119.8" width="90" height="36" fill="white"/>
+        <path d="M 322.83187 119.801 L 414.40235 119.66397 M 413.96077 118.82335 L 413.06984 156.51672 M 413.5583 156.21343 L 323.23185 155.65574 M 323.73984 156.65103 L 323.4954 119.09127 M 322.95677 119.61244 L 414.06585 119.51654 M 414.1201 118.69916 L 413.30757 156.08796 M 413.68314 156.11294 L 323.85792 155.6083 M 323.79988 156.52645 L 323.5458 119.67552" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(328.5 126.8)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="32.692" y="15">…</tspan>
+        </text>
+      </g>
+      <g id="Line_26">
+        <path d="M 368.4405 155.8 C 367.9844 166.24483 368.1056 167.8035 368.58486 184.0045 M 368.4405 155.8 C 368.4844 165.74483 368.6056 167.3035 369.08486 183.5045" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_27">
+        <path d="M 368.5 85.2 C 367.74684 97.2647 367.2273 95.37182 368.64434 113.50196 M 368.5 85.2 C 368.24684 96.7647 367.7273 94.87182 369.14434 113.00196" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

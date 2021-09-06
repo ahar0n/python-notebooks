@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="321 13 375 252" width="375" height="252">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-2 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 1.5 0 L -.9 -.9 L 0 0 L 0 0 L -.9 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Bradley Hand" font-size="18" panose-1="0 0 7 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-166" underline-thickness="61" slope="0" x-height="494" cap-height="543" ascent="850.0061" descent="-399.00208" font-weight="700" font-stretch="expanded">
+      <font-face-src>
+        <font-face-name name="BradleyHandITCTT-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2021-09-03 04:55:22 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_22">
+        <path d="M 368.4405 14.7 C 366.8735 25.562424 368.27107 23.617294 368.58486 42.904496 M 368.4405 14.7 C 367.3735 25.062424 368.77107 23.117294 369.08486 42.404496" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_23">
+        <path d="M 368.5 49.2 L 413.5 67.2 L 368.5 85.2 L 323.5 67.2 Z" fill="white"/>
+        <path d="M 368.21303 49.08152 L 413.6422 67.838355 M 413.4568 67.55438 L 367.6687 85.53107 M 368.4536 85.51617 L 323.10666 67.11551 M 323.1414 67.77526 L 368.92513 49.0259 M 368.3656 48.8898 L 413.3602 67.443476 M 413.58327 67.433125 L 368.2298 85.28924 M 368.5578 85.44242 L 324.04355 67.36234 M 323.2472 67.603435 L 368.60455 49.025063" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(340.65 55.84)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="25.222" y="15">?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <rect x="323.5" y="116.5" width="90" height="36" fill="white"/>
+        <path d="M 322.83187 116.501 L 414.40235 116.36397 M 413.96077 115.52335 L 413.06984 153.21672 M 413.5583 152.91343 L 323.23185 152.35574 M 323.73984 153.35103 L 323.4954 115.79127 M 322.95677 116.31244 L 414.06585 116.21654 M 414.1201 115.39916 L 413.30757 152.78795 M 413.68314 152.81294 L 323.85792 152.3083 M 323.79988 153.22645 L 323.5458 116.37552" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(328.5 123.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="32.692" y="15">…</tspan>
+        </text>
+      </g>
+      <g id="Line_26">
+        <path d="M 368.5 152.5 C 368.03373 163.177 368.21125 231.1399 369.11687 257.3876 M 368.5 152.5 C 368.53373 162.677 368.71125 230.6399 369.61687 256.8876" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_27">
+        <path d="M 368.5 85.2 C 367.74806 97.24518 367.279 92.68805 368.64555 110.2012 M 368.5 85.2 C 368.24806 96.74518 367.779 92.18805 369.14555 109.7012" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_28">
+        <rect x="462.5" y="174.5" width="90" height="36" fill="white"/>
+        <path d="M 461.67036 174.5002 L 552.9882 174.47833 M 552.55314 173.91455 L 552.5635 211.61843 M 553.54674 210.77552 L 462.2678 210.77063 M 462.93883 211.21751 L 462.496 174.16725 M 461.79534 174.26207 L 552.6783 174.24932 M 552.6954 173.78955 L 552.75114 210.65045 M 553.67174 210.6913 L 463.0585 210.71044 M 462.9773 211.09355 L 462.50795 174.3764" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(467.5 181.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="32.692" y="15">…</tspan>
+        </text>
+      </g>
+      <g id="Line_29">
+        <path d="M 412.2331 67.20856 L 508.2002 66.5603 M 507.3694 65.62364 L 506.58254 100.53754 M 412.48246 66.86592 L 507.5981 66.30384 M 507.8092 65.377914 L 507.0479 98.74834" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_32">
+        <path d="M 507.55823 139.91112 L 506.54375 167.59194 M 507.9999 139.66815 L 506.9971 166.54997" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_33">
+        <path d="M 507.5 105.5 L 552.5 123.5 L 507.5 141.5 L 462.5 123.5 Z" fill="white"/>
+        <path d="M 506.94126 105.28464 L 553.27175 123.14186 M 553.6943 122.67739 L 506.5896 142.06932 M 507.7994 142.19524 L 462.5273 123.62369 M 462.2047 124.08957 L 508.38455 105.13697 M 507.0767 105.13251 L 553.07334 122.76993 M 553.83094 122.58059 L 507.19384 141.82828 M 507.91445 142.09455 L 463.0244 123.74891 M 462.2832 123.8513 L 507.60406 105.32398" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(479.65 112.14)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="25.222" y="15">?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_34">
+        <rect x="603" y="174.5" width="90" height="36" fill="white"/>
+        <path d="M 602.59736 174.49908 L 693.6598 174.70685 M 693.28324 173.94744 L 693.0328 210.92166 M 693.5236 210.505 L 601.83976 210.59531 M 602.82975 211.45054 L 603.0015 174.16918 M 602.72256 174.2868 L 693.40314 174.5649 M 693.5164 173.82318 L 693.2632 210.38117 M 693.6487 210.45336 L 602.95874 210.5147 M 602.9501 211.32552 L 603.05724 174.37469" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(608 181.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="18" font-weight="700" fill="black" x="32.692" y="15">…</tspan>
+        </text>
+      </g>
+      <g id="Line_35">
+        <path d="M 550.58705 123.50357 L 649.0435 123.31974 M 648.3351 121.98967 L 647.04275 168.14415 M 550.837 123.21265 L 648.54766 122.98497 M 648.7066 121.74307 L 647.32214 167.20456" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_36">
+        <path d="M 507.4959 208.9794 L 507.5414 225.81611 M 508.68625 225.07714 L 374.7099 226.36067 M 507.9032 208.72896 L 507.9296 224.83774 M 508.9365 224.85402 L 375.50836 226.1704" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_37">
+        <path d="M 648.0072 209.37174 L 647.7765 245.57152 M 648.7428 244.86443 L 372.55366 243.95645 M 648.2809 209.1219 L 648.2252 244.6125 M 648.9922 244.7966 L 374.7089 243.8326" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
