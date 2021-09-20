@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="229 325 300 149" width="300" height="149">
+  <defs>
+    <font-face font-family="Fira Sans" font-size="10" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="934.9976" descent="-264.9994" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.15 
+    <dc:date>2018-09-27 18:01:49 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill="none" stroke-dasharray="none" stroke-opacity="1" fill-opacity="1" stroke="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <circle cx="242.5" cy="366.5" r="12.5000199737737" fill="white"/>
+        <circle cx="242.5" cy="366.5" r="12.5000199737737" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(237.5 360.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="10" font-weight="400" fill="black" x="2.135" y="9">A</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <circle cx="370.5" cy="338.5" r="12.5000199737737" fill="white"/>
+        <circle cx="370.5" cy="338.5" r="12.5000199737737" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(365.5 332.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="10" font-weight="400" fill="black" x="1.96" y="9">B</tspan>
+        </text>
+      </g>
+      <g id="Line_5">
+        <path d="M 242.5 354 L 242.5 338 L 244 338 L 348 338.5 L 358 338.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_6">
+        <circle cx="312.5" cy="395.5" r="12.5000199737737" fill="white"/>
+        <circle cx="312.5" cy="395.5" r="12.5000199737737" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(307.5 389.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="10" font-weight="400" fill="black" x="2.2" y="9">C</tspan>
+        </text>
+      </g>
+      <g id="Line_7">
+        <path d="M 242.5 379 L 242.5 396 L 260 396 L 290 395.5 L 300 395.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_8">
+        <circle cx="500.5" cy="366.5" r="12.5000199737737" fill="white"/>
+        <circle cx="500.5" cy="366.5" r="12.5000199737737" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(495.5 360.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="10" font-weight="400" fill="black" x="1.78" y="9">D</tspan>
+        </text>
+      </g>
+      <g id="Line_9">
+        <line x1="255" y1="366.5" x2="488" y2="366.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_10">
+        <path d="M 383 338.5 L 393 338.5 L 474 338 L 500.5 338 L 500.5 354" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_11">
+        <path d="M 325 395.5 L 335 395.5 L 488 396 L 500.5 396 L 500.5 379" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_12">
+        <circle cx="399.5" cy="420.5" r="12.5000199737737" fill="white"/>
+        <circle cx="399.5" cy="420.5" r="12.5000199737737" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(394.5 414.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="10" font-weight="400" fill="black" x="2.325" y="9">E</tspan>
+        </text>
+      </g>
+      <g id="Line_14">
+        <path d="M 513 366.5 L 528 366.5 L 528 460.5 L 412 460.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_16">
+        <circle cx="399.5" cy="460.5" r="12.5000199737737" fill="white"/>
+        <circle cx="399.5" cy="460.5" r="12.5000199737737" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(394.5 454.5)" fill="black">
+          <tspan font-family="Fira Sans" font-size="10" font-weight="400" fill="black" x="2.545" y="9">F</tspan>
+        </text>
+      </g>
+      <g id="Line_18">
+        <path d="M 399.5 448 L 399.5 440.5 L 399.5 433" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_19">
+        <path d="M 312.5 408 L 312.5 418 L 312 448 L 312 460.5 L 387 460.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
