@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="15.942 14.5 304.558 308" width="304.558" height="308">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Bradley Hand" font-size="14" panose-1="0 0 7 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-166" underline-thickness="61" slope="0" x-height="494" cap-height="543" ascent="850.0061" descent="-399.00208" font-weight="700" font-stretch="expanded">
+      <font-face-src>
+        <font-face-name name="BradleyHandITCTT-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2021-10-04 03:36:52 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" stroke-opacity="1" fill="none" stroke-dasharray="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_29">
+        <g id="Line_28">
+          <path d="M 105 210 C 105 210 145 170 145 170" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_27">
+          <path d="M 105 210 C 105 210 145 70 145 70" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_26">
+          <path d="M 145 170 C 145 170 225 190 225 190" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_25">
+          <path d="M 225 190 C 225 190 285 130 285 130" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_24">
+          <path d="M 145 70 C 145 70 285 130 285 130" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Line_23">
+        <line x1="45" y1="315" x2="45" y2="24.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_31">
+        <line x1="20" y1="290" x2="310.1" y2="290" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(25 239.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12"> 2</tspan>
+        </text>
+      </g>
+      <g id="Line_35">
+        <path d="M 40 270 C 40 270 50 270 50 270" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_36">
+        <path d="M 40 250 C 40 250 50 250 50 250" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_37">
+        <path d="M 40 230 C 40 230 50 230 50 230" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_38">
+        <path d="M 40 210 C 40 210 50 210 50 210" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_39">
+        <path d="M 40 190 C 40 190 50 190 50 190" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_40">
+        <path d="M 40 170 C 40 170 50 170 50 170" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_41">
+        <path d="M 40 150 C 40 150 50 150 50 150" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_42">
+        <path d="M 40 130 C 40 130 50 130 50 130" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_44">
+        <text transform="translate(24.638 199.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="9894308e-19" y="12"> 4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <text transform="translate(22.02 79.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="3200995e-18" y="12">10</tspan>
+        </text>
+      </g>
+      <g id="Line_46">
+        <path d="M 40 110 C 40 110 50 110 50 110" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_47">
+        <path d="M 40 90 C 40 90 50 90 50 90" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_48">
+        <path d="M 40 70 C 40 70 50 70 50 70" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_49">
+        <path d="M 40 50 C 40 50 50 50 50 50" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_52">
+        <text transform="translate(25 159.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12"> 6</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <text transform="translate(25.52 119.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="3200995e-18" y="12"> 8</tspan>
+        </text>
+      </g>
+      <g id="Graphic_54">
+        <text transform="translate(20.942 39.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">12</tspan>
+        </text>
+      </g>
+      <g id="Line_55">
+        <path d="M 65 285.5 C 65 285.5 65 295.5 65 295.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_59">
+        <path d="M 85 285.5 C 85 285.5 85 295.5 85 295.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_60">
+        <path d="M 105 285 C 105 285 105 295 105 295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_61">
+        <path d="M 125 285 C 125 285 125 295 125 295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_62">
+        <path d="M 145 285.5 C 145 285.5 145 295.5 145 295.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_63">
+        <path d="M 165 285.5 C 165 285.5 165 295.5 165 295.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_64">
+        <path d="M 185 285 C 185 285 185 295 185 295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_65">
+        <path d="M 205 285 C 205 285 205 295 205 295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_66">
+        <path d="M 225 285.5 C 225 285.5 225 295.5 225 295.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_67">
+        <path d="M 245 285.5 C 245 285.5 245 295.5 245 295.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_68">
+        <path d="M 265 285 C 265 285 265 295 265 295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_69">
+        <path d="M 285 285 C 285 285 285 295 285 295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_70">
+        <text transform="translate(80.146 299.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_71">
+        <text transform="translate(120.104 299.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="64037664e-20" y="12">4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_72">
+        <text transform="translate(160.048 299.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">6</tspan>
+        </text>
+      </g>
+      <g id="Graphic_73">
+        <text transform="translate(200.545 299.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">8</tspan>
+        </text>
+      </g>
+      <g id="Graphic_74">
+        <text transform="translate(237.01 299.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_75">
+        <text transform="translate(275.471 299.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="45119464e-20" y="12">12</tspan>
+        </text>
+      </g>
+      <g id="Line_77">
+        <path d="M 105 210 C 105 210 105 285 105 285" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_78">
+        <path d="M 105 210 C 105 210 50 210 50 210" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_79">
+        <path d="M 145 70 C 145 70 145 285 145 285" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_80">
+        <path d="M 145 170 C 145 170 50 170 50 170" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_81">
+        <path d="M 225 190 C 225 190 225 285 225 285" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_82">
+        <path d="M 225 190 C 225 190 50 190 50 190" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_83">
+        <path d="M 285 130 C 285 130 285 285 285 285" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_84">
+        <path d="M 285 130 C 285 130 50 130 50 130" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_85">
+        <path d="M 145 70 C 145 70 50 70 50 70" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_87">
+        <text transform="translate(111.67 214.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="17443824e-19" y="12">P1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_88">
+        <text transform="translate(150.312 47.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="19184654e-19" y="12">P2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_89">
+        <text transform="translate(290.578 109.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">P3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_90">
+        <text transform="translate(230.228 194.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">P4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_91">
+        <text transform="translate(150.494 174.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="12221335e-19" y="12">P5</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
