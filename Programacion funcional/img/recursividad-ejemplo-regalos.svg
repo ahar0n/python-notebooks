@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 851 196" width="851" height="196">
+  <defs>
+    <font-face font-family="Courier New" font-size="14" panose-1="2 7 3 9 2 2 5 2 4 4" units-per-em="1000" underline-position="-232.91016" underline-thickness="41.015625" slope="0" x-height="422.85156" cap-height="571.28906" ascent="832.5195" descent="-300.29297" font-weight="400">
+      <font-face-src>
+        <font-face-name name="CourierNewPSMT"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2021-10-15 02:37:51 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_20">
+        <rect x="328.07692" y="10" width="188.46154" height="40.384615" fill="white"/>
+        <rect x="328.07692" y="10" width="188.46154" height="40.384615" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(333.07692 14.192308)" fill="black">
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="47.22393" y="12">Ayudante 1</tspan>
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="1.0164108" y="28">Se le asignan 4 casas</tspan>
+        </text>
+      </g>
+      <g id="Graphic_35">
+        <rect x="112.69231" y="77.30769" width="188.46154" height="40.384615" fill="white"/>
+        <rect x="112.69231" y="77.30769" width="188.46154" height="40.384615" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(117.69231 81.5)" fill="black">
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="47.22393" y="12">Ayudante 2</tspan>
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="1.0164108" y="28">Se le asignan 2 casas</tspan>
+        </text>
+      </g>
+      <g id="Line_36">
+        <path d="M 422.3077 50.384615 L 422.3077 63.846154 L 206.92308 63.846154 L 206.92308 77.30769" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_39">
+        <rect x="5" y="144.61538" width="188.46154" height="40.384615" fill="white"/>
+        <rect x="5" y="144.61538" width="188.46154" height="40.384615" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(10 148.8077)" fill="black">
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="47.22393" y="12">Ayudante 4</tspan>
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="1.0164108" y="28">Se le asignan 1 casas</tspan>
+        </text>
+      </g>
+      <g id="Line_40">
+        <path d="M 206.92308 117.69231 L 206.92308 131.15385 L 99.23077 131.15385 L 99.23077 144.61538" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_41">
+        <rect x="220.38462" y="144.61538" width="188.46154" height="40.384615" fill="white"/>
+        <rect x="220.38462" y="144.61538" width="188.46154" height="40.384615" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(225.38462 148.8077)" fill="black">
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="47.22393" y="12">Ayudante 5</tspan>
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="1.0164108" y="28">Se le asignan 1 casas</tspan>
+        </text>
+      </g>
+      <g id="Line_42">
+        <path d="M 206.92308 117.69231 L 206.92308 131.15385 L 314.6154 131.15385 L 314.6154 144.61538" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_48">
+        <rect x="543.46154" y="77.30769" width="188.46154" height="40.384615" fill="white"/>
+        <rect x="543.46154" y="77.30769" width="188.46154" height="40.384615" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(548.46154 81.5)" fill="black">
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="47.22393" y="12">Ayudante 3</tspan>
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="1.0164108" y="28">Se le asignan 2 casas</tspan>
+        </text>
+      </g>
+      <g id="Graphic_47">
+        <rect x="435.76923" y="144.61538" width="188.46154" height="40.384615" fill="white"/>
+        <rect x="435.76923" y="144.61538" width="188.46154" height="40.384615" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(440.76923 148.8077)" fill="black">
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="47.22393" y="12">Ayudante 6</tspan>
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="1.0164108" y="28">Se le asignan 1 casas</tspan>
+        </text>
+      </g>
+      <g id="Line_46">
+        <path d="M 637.6923 117.69231 L 637.6923 131.15385 L 530 131.15385 L 530 144.61538" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_45">
+        <rect x="651.15385" y="144.61538" width="188.46154" height="40.384615" fill="white"/>
+        <rect x="651.15385" y="144.61538" width="188.46154" height="40.384615" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(656.15385 148.8077)" fill="black">
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="47.22393" y="12">Ayudante 7</tspan>
+          <tspan font-family="Courier New" font-size="14" font-weight="400" fill="black" x="1.0164108" y="28">Se le asignan 1 casas</tspan>
+        </text>
+      </g>
+      <g id="Line_44">
+        <path d="M 637.6923 117.69231 L 637.6923 131.15385 L 745.3846 131.15385 L 745.3846 144.61538" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_49">
+        <path d="M 422.3077 50.384615 L 422.3077 63.846154 L 637.6923 63.846154 L 637.6923 77.30769" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
