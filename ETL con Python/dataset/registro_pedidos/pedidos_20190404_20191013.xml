@@ -1,0 +1,85 @@
+<xml>
+    <header>
+        <fecha_desde>2019/04/04</fecha_desde>
+        <fecha_hasta>2019/10/13</fecha_hasta>
+		<sucrusal>Santiago Centro</sucursal>
+    </header>
+    <pedido id="25636" >
+        <cliente_id>69</cliente_id>
+        <nombre>Francisco</nombre>
+        <apellido>Rodriguez</apellido>
+        <fecha>2019/04/04</fecha>
+        <descuento_porcentaje>10</descuento_porcentaje>
+        <detalles>
+            <linea producto_id="25" >
+                <descripcion>Zapatillas Nike Zoom Fly Flyknit</descripcion>
+                <color>Rojo</color>
+                <precio>89000</precio>
+                <unidades>3</unidades>
+            </linea>
+            <linea producto_id="69" >
+                <descripcion>Zapatillas Adidas Adizero Adiós 4</descripcion>
+                <color>Verde</color>
+                <precio>105000</precio>
+                <unidades>1</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+    <pedido id="26852" >
+        <cliente_id>96</cliente_id>
+        <nombre>Ismael</nombre>
+        <apellido>Lledó</apellido>
+        <fecha>2019/08/04</fecha>
+        <descuento_porcentaje>0</descuento_porcentaje>
+        <detalles>
+            <linea producto_id="11" >
+                <descripcion>Camisa Polo</descripcion>
+                <color> Negro</color>
+                <precio>10500</precio>
+                <unidades>1</unidades>
+            </linea>
+            <linea producto_id="17" >
+                <descripcion>Polera Puma</descripcion>
+                <color> Azul florido </color>
+                <precio>22600</precio>
+                <unidades>3</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+    <pedido id="28851" >
+        <cliente_id>68</cliente_id>
+        <nombre>Álvaro</nombre>
+        <apellido>Latorre</apellido>
+        <fecha>2019/10/13</fecha>
+        <descuento_porcentaje>10</descuento_porcentaje>
+        <detalles>
+            <linea producto_id="30" >
+                <descripcion>Nike Pegasus</descripcion>
+                <color>Amarillo</color>
+                <precio>102000</precio>
+                <unidades>1</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+    <pedido id="30631" >
+        <cliente_id>69</cliente_id>
+        <nombre>Francisco</nombre>
+        <apellido>Rodriguez</apellido>
+        <fecha>2019/10/13</fecha>
+        <descuento_porcentaje>50</descuento_porcentaje>
+        <detalles>
+            <linea producto_id="05" >
+                <descripcion>Blazer</descripcion>
+                <color>Verde</color>
+                <precio>89000</precio>
+                <unidades>3</unidades>
+            </linea>
+            <linea producto_id="69" >
+                <descripcion>Zapatillas Adidas Adizero Adiós 4</descripcion>
+                <color>Verde</color>
+                <precio>101000</precio>
+                <unidades>1</unidades>
+            </linea>
+        </detalles>
+    </pedido> 
+</xml>

@@ -1,0 +1,18 @@
+[
+    {
+    "nombre": "Juan",
+    "segundo_nombre": null,
+    "edad": 30,
+    "ciudad": "Santiago",
+    "casado": true,
+    "telefono": "987654321"
+    },
+    {
+    "nombre": "Sandra",
+    "segundo_nombre": "Ariel",
+    "edad": 24,
+    "ciudad": "Concepción",
+    "casado": false,
+    "telefono": "123456789"
+    }
+]

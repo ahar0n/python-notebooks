@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="-25 285 895 275" width="895" height="275">
+  <defs>
+    <font-face font-family="Fira Sans" font-size="14" panose-1="2 11 6 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="529" cap-height="691" ascent="934.9976" descent="-264.9994" font-weight="500">
+      <font-face-src>
+        <font-face-name name="FiraSans-Medium"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Fira Sans" font-size="14" panose-1="2 11 5 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="934.9976" descent="-264.9994" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraSans-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2021-10-20 02:14:50 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill="none" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1" stroke="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_150">
+        <rect x="139.86122" y="288" width="118.52498" height="59.26249" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(144.86122 307.63125)" fill="black">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="500" fill="black" x="21.41149" y="16">Extracción </tspan>
+        </text>
+      </g>
+      <g id="Graphic_152">
+        <rect x="507.28866" y="288" width="118.52498" height="59.26249" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(512.28866 297.63125)" fill="black">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="500" fill="black" x="12.54949" y="16">Adaptación e</tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="500" fill="black" x="18.21949" y="36">Integración</tspan>
+        </text>
+      </g>
+      <g id="Graphic_155">
+        <rect x="139.86122" y="483.5662" width="669.66614" height="75.17235" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(144.86122 502.6524)" fill="black">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="500" fill="black" x="0" y="16">Operaciones</tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="black" x="0" y="33">Programación - Manejo de excepciones - Recuperación - Comprobación de calidad - Release - Soporte</tspan>
+        </text>
+      </g>
+      <g id="Graphic_159">
+        <rect x="323.57494" y="288" width="118.52498" height="59.26249" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(328.57494 307.63125)" fill="black">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="500" fill="black" x="26.00349" y="16">Limpieza</tspan>
+        </text>
+      </g>
+      <g id="Line_160">
+        <line x1="258.3862" y1="317.63125" x2="313.67494" y2="317.63125" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_161">
+        <line x1="442.0999" y1="317.63125" x2="497.38866" y2="317.63125" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_162">
+        <rect x="691.0024" y="288" width="118.52498" height="59.26249" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(696.0024 307.63125)" fill="black">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="500" fill="black" x="30.10549" y="16">Entrega</tspan>
+        </text>
+      </g>
+      <g id="Line_163">
+        <line x1="625.81364" y1="317.63125" x2="681.1024" y2="317.63125" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_164">
+        <path d="M 205.12371 391.70936 L 252.3862 391.70936 C 255.6999 391.70936 258.3862 394.39565 258.3862 397.70936 L 258.3862 430.15623 C 258.3862 433.46993 255.6999 436.15623 252.3862 436.15623 L 205.12371 436.15623 C 201.81 436.15623 199.12371 433.46993 199.12371 430.15623 L 199.12371 397.70936 C 199.12371 394.39565 201.81 391.70936 205.12371 391.70936 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(204.12371 405.4328)" fill="black">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="black" x="12.332245" y="13">DSA </tspan>
+        </text>
+      </g>
+      <g id="Line_165">
+        <path d="M 179.36955 357.1625 L 179.36955 453.96375 L 273.79445 453.96375 L 273.79445 473.6662" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_166">
+        <line x1="238.63204" y1="347.2625" x2="238.63204" y2="381.80936" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_168">
+        <path d="M 363.08327 357.1625 L 363.08327 453.935 L 407.7277 453.935 L 407.7277 473.6662" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_171">
+        <path d="M 541.6609 473.6662 L 541.6609 453.935 L 527.0428 453.935 L 527.0428 357.1625" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_174">
+        <path d="M 710.75655 357.1625 L 710.75655 376 L 675.5941 376 L 675.5941 473.6662" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_175">
+        <path d="M 706 392 L 802 392 C 805.3137 392 808 394.6863 808 398 L 808 430 C 808 433.3137 805.3137 436 802 436 L 706 436 C 702.6863 436 700 433.3137 700 430 L 700 398 C 700 394.6863 702.6863 392 706 392 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(705 394)" fill="black">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="500" fill="black" x="28.532" y="16">Tablas</tspan>
+          <tspan font-family="Fira Sans" font-size="14" font-weight="500" fill="black" x="2.212" y="36">Dimensionales</tspan>
+        </text>
+      </g>
+      <g id="Line_176">
+        <line x1="789.7732" y1="347.2625" x2="789.9498" y2="382.10013" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_206">
+        <line x1="80.59873" y1="317.63125" x2="129.96122" y2="317.63125" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_208">
+        <path d="M 388.83743 391.70936 L 436.0999 391.70936 C 439.41363 391.70936 442.0999 394.39565 442.0999 397.70936 L 442.0999 430.15623 C 442.0999 433.46993 439.41363 436.15623 436.0999 436.15623 L 388.83743 436.15623 C 385.52372 436.15623 382.83743 433.46993 382.83743 430.15623 L 382.83743 397.70936 C 382.83743 394.39565 385.52372 391.70936 388.83743 391.70936 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(387.83743 405.4328)" fill="black">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="black" x="12.332245" y="13">DSA </tspan>
+        </text>
+      </g>
+      <g id="Line_209">
+        <line x1="422.34576" y1="347.2625" x2="422.34576" y2="381.80936" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_210">
+        <path d="M 572.55115 391.70936 L 619.81364 391.70936 C 623.12735 391.70936 625.81364 394.39565 625.81364 397.70936 L 625.81364 430.15623 C 625.81364 433.46993 623.12735 436.15623 619.81364 436.15623 L 572.55115 436.15623 C 569.23744 436.15623 566.55115 433.46993 566.55115 430.15623 L 566.55115 397.70936 C 566.55115 394.39565 569.23744 391.70936 572.55115 391.70936 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(571.55115 405.4328)" fill="black">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="black" x="12.332245" y="13">DSA </tspan>
+        </text>
+      </g>
+      <g id="Line_211">
+        <line x1="606.0595" y1="347.2625" x2="606.0595" y2="381.80936" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_214">
+        <g id="Graphic_212">
+          <path d="M -24 334.6 L -24 291.4 C -24 288.4192 -7.279059 286 13.32353 286 C 33.926118 286 50.64706 288.4192 50.64706 291.4 L 50.64706 334.6 C 50.64706 337.5808 33.926118 340 13.32353 340 C -7.279059 340 -24 337.5808 -24 334.6 M -24 291.4 C -24 294.3808 -7.279059 296.8 13.32353 296.8 C 33.926118 296.8 50.64706 294.3808 50.64706 291.4" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_213">
+          <path d="M -4.647059 342.6 L -4.647059 299.4 C -4.647059 296.4192 12.073882 294 32.67647 294 C 53.27906 294 70 296.4192 70 299.4 L 70 342.6 C 70 345.5808 53.27906 348 32.67647 348 C 12.073882 348 -4.647059 345.5808 -4.647059 342.6" fill="white"/>
+          <path d="M -4.647059 342.6 L -4.647059 299.4 C -4.647059 296.4192 12.073882 294 32.67647 294 C 53.27906 294 70 296.4192 70 299.4 L 70 342.6 C 70 345.5808 53.27906 348 32.67647 348 C 12.073882 348 -4.647059 345.5808 -4.647059 342.6 M -4.647059 299.4 C -4.647059 302.3808 12.073882 304.8 32.67647 304.8 C 53.27906 304.8 70 302.3808 70 299.4" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(.35294118 315.2)" fill="black">
+            <tspan font-family="Fira Sans" font-size="14" font-weight="400" fill="black" x="7.648528" y="13">Fuentes</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

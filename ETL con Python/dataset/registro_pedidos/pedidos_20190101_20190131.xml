@@ -1,0 +1,37 @@
+<xml>
+    <header>
+        <fecha_desde>2019/01/01</fecha_desde>
+        <fecha_hasta>2019/01/31</fecha_hasta>
+		<sucursal>Santiago Sur</sucursal>
+    </header>
+    <pedido id="23221" >
+        <cliente_id>69</cliente_id>
+        <nombre>Francisco</nombre>
+        <apellido>Rodriguez</apellido>
+        <fecha>2019/01/04</fecha>
+        <descuento_porcentaje>30</descuento_porcentaje>
+        <detalles>
+            <linea producto_id="05" >
+                <descripcion>Camiseta Manga corta Joma</descripcion>
+                <color>Gris</color>
+                <precio>5000</precio>
+                <unidades>200</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+    <pedido id="23225" >
+        <cliente_id>68</cliente_id>
+        <nombre>Álvaro</nombre>
+        <apellido>Latorre</apellido>
+        <fecha>2019/01/25</fecha>
+        <descuento_porcentaje>69</descuento_porcentaje>
+        <detalles>
+            <linea producto_id="30" >
+                <descripcion>Garmin Forerruner 235</descripcion>
+                <color>Amarillo</color>
+                <precio>205000</precio>
+                <unidades>1</unidades>
+            </linea>
+        </detalles>
+    </pedido>
+</xml>
