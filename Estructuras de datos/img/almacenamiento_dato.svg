@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="456 169 956 262" width="956" height="262">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="456" y="169">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="2.18"/>
+      <feOffset in="blur" result="offset" dx="4" dy="-4"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in" result="color"/>
+      <feMerge>
+        <feMergeNode in="color"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <font-face font-family="Fira Mono" font-size="5" panose-1="2 11 5 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="934.9976" descent="-264.9994" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraMono-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Fira Mono" font-size="18" panose-1="2 11 5 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="527" cap-height="689" ascent="934.9976" descent="-264.9994" font-weight="400">
+      <font-face-src>
+        <font-face-name name="FiraMono-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Fira Sans" font-size="14" panose-1="2 11 4 3 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="523" cap-height="685" ascent="934.9976" descent="-264.9994" font-weight="300">
+      <font-face-src>
+        <font-face-name name="FiraSans-Light"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledBall_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 8 8" markerWidth="8" markerHeight="8" color="#21373a">
+      <g>
+        <circle cx="2.9999986" cy="0" r="2.99999734868332" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledBall_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-7 -4 8 8" markerWidth="8" markerHeight="8" color="#21373a">
+      <g>
+        <circle cx="-2.9999986" cy="0" r="2.99999734868332" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2021-10-20 04:05:59 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill="none" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1" stroke="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="456" y="169" width="956" height="262"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_89">
+        <path d="M 552.1181 169.57895 C 541.33457 169.57895 540.0004 171.8737 529.32844 188.63629 L 529.218 188.81336 C 518.4345 205.66448 518.4345 205.83975 518.4345 223.13355 C 518.4345 246.16064 518.4345 350.2686 518.4345 350.2686 L 632.269 350.2686 L 632.269 169.57895 L 552.1181 169.57895 Z" fill="white"/>
+        <path d="M 552.1181 169.57895 C 541.33457 169.57895 540.0004 171.8737 529.32844 188.63629 L 529.218 188.81336 C 518.4345 205.66448 518.4345 205.83975 518.4345 223.13355 C 518.4345 246.16064 518.4345 350.2686 518.4345 350.2686 L 632.269 350.2686 L 632.269 169.57895 L 552.1181 169.57895 Z M 551.5626 169.57895 C 541.33457 169.57895 541.33457 169.75602 541.33457 205.83975 L 541.33457 205.83975 C 518.54604 205.83975 518.4345 205.83975 518.4345 222.0747" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_88">
+        <path d="M 550.3112 171.38584 C 539.5277 171.38584 538.1935 173.6806 527.52155 190.44318 L 527.4111 190.62026 C 516.6276 207.47137 516.6276 207.64664 516.6276 224.94045 C 516.6276 247.96754 516.6276 352.0755 516.6276 352.0755 L 630.4621 352.0755 L 630.4621 171.38584 L 550.3112 171.38584 Z" fill="white"/>
+        <path d="M 550.3112 171.38584 C 539.5277 171.38584 538.1935 173.6806 527.52155 190.44318 L 527.4111 190.62026 C 516.6276 207.47137 516.6276 207.64664 516.6276 224.94045 C 516.6276 247.96754 516.6276 352.0755 516.6276 352.0755 L 630.4621 352.0755 L 630.4621 171.38584 L 550.3112 171.38584 Z M 549.7557 171.38584 C 539.5277 171.38584 539.5277 171.56292 539.5277 207.64664 L 539.5277 207.64664 C 516.73914 207.64664 516.6276 207.64664 516.6276 223.8816" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_87">
+        <path d="M 548.5043 173.19274 C 537.7208 173.19274 536.38663 175.4875 525.71465 192.25008 L 525.6042 192.42715 C 514.8207 209.27827 514.8207 209.45354 514.8207 226.74735 C 514.8207 249.77444 514.8207 353.8824 514.8207 353.8824 L 628.6552 353.8824 L 628.6552 173.19274 L 548.5043 173.19274 Z" fill="white"/>
+        <path d="M 548.5043 173.19274 C 537.7208 173.19274 536.38663 175.4875 525.71465 192.25008 L 525.6042 192.42715 C 514.8207 209.27827 514.8207 209.45354 514.8207 226.74735 C 514.8207 249.77444 514.8207 353.8824 514.8207 353.8824 L 628.6552 353.8824 L 628.6552 173.19274 L 548.5043 173.19274 Z M 547.9488 173.19274 C 537.7208 173.19274 537.7208 173.36982 537.7208 209.45354 L 537.7208 209.45354 C 514.93225 209.45354 514.8207 209.45354 514.8207 225.6885" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_86">
+        <path d="M 546.6974 174.99964 C 535.9139 174.99964 534.57974 177.2944 523.90775 194.05697 L 523.79733 194.23405 C 513.0138 211.08517 513.0138 211.26044 513.0138 228.55424 C 513.0138 251.58133 513.0138 355.6893 513.0138 355.6893 L 626.8483 355.6893 L 626.8483 174.99964 L 546.6974 174.99964 Z" fill="white"/>
+        <path d="M 546.6974 174.99964 C 535.9139 174.99964 534.57974 177.2944 523.90775 194.05697 L 523.79733 194.23405 C 513.0138 211.08517 513.0138 211.26044 513.0138 228.55424 C 513.0138 251.58133 513.0138 355.6893 513.0138 355.6893 L 626.8483 355.6893 L 626.8483 174.99964 L 546.6974 174.99964 Z M 546.1419 174.99964 C 535.9139 174.99964 535.9139 175.17671 535.9139 211.26044 L 535.9139 211.26044 C 513.12535 211.26044 513.0138 211.26044 513.0138 227.4954" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_85">
+        <path d="M 544.8905 176.80653 C 534.107 176.80653 532.77284 179.1013 522.10086 195.86387 L 521.99044 196.04095 C 511.2069 212.89206 511.2069 213.06733 511.2069 230.36114 C 511.2069 253.38823 511.2069 357.4962 511.2069 357.4962 L 625.0414 357.4962 L 625.0414 176.80653 L 544.8905 176.80653 Z" fill="white"/>
+        <path d="M 544.8905 176.80653 C 534.107 176.80653 532.77284 179.1013 522.10086 195.86387 L 521.99044 196.04095 C 511.2069 212.89206 511.2069 213.06733 511.2069 230.36114 C 511.2069 253.38823 511.2069 357.4962 511.2069 357.4962 L 625.0414 357.4962 L 625.0414 176.80653 L 544.8905 176.80653 Z M 544.335 176.80653 C 534.107 176.80653 534.107 176.9836 534.107 213.06733 L 534.107 213.06733 C 511.31845 213.06733 511.2069 213.06733 511.2069 229.3023" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_84" filter="url(#Shadow)">
+        <path d="M 543.0836 178.61343 C 532.3001 178.61343 530.96594 180.90819 520.29396 197.67077 L 520.18354 197.84784 C 509.4 214.69896 509.4 214.87423 509.4 232.16804 C 509.4 255.19513 509.4 359.3031 509.4 359.3031 L 623.2345 359.3031 L 623.2345 178.61343 L 543.0836 178.61343 Z" fill="white"/>
+        <path d="M 543.0836 178.61343 C 532.3001 178.61343 530.96594 180.90819 520.29396 197.67077 L 520.18354 197.84784 C 509.4 214.69896 509.4 214.87423 509.4 232.16804 C 509.4 255.19513 509.4 359.3031 509.4 359.3031 L 623.2345 359.3031 L 623.2345 178.61343 L 543.0836 178.61343 Z M 542.5281 178.61343 C 532.3001 178.61343 532.3001 178.7905 532.3001 214.87423 L 532.3001 214.87423 C 509.51156 214.87423 509.4 214.87423 509.4 231.1092" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width=".25"/>
+        <text transform="translate(481.9724 201.95826)" fill="white">
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="white" x="82.84483" y="5">…</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="white" x="82.84483" y="13">…</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="21">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="29">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="37">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="45">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="53">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="61">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="69">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="77">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="85">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="93">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="101">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="109">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="117">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="125">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+          <tspan font-family="Fira Mono" font-size="5" font-weight="400" fill="black" x="34.844826" y="133">JUAN P. PEREZ MUÑOZ  7892611K 034</tspan>
+        </text>
+      </g>
+      <g id="Graphic_83">
+        <rect x="509.4" y="225.8207" width="113.83448" height="9.034483" fill="#666" fill-opacity=".5"/>
+      </g>
+      <g id="Graphic_82">
+        <path d="M 509.4 225.8207 L 457 314.35862 L 457 350.49655 L 509.4 234.85517 Z" fill="#929292" fill-opacity=".25"/>
+      </g>
+      <g id="Graphic_81">
+        <path d="M 623.2345 225.8207 L 1411.0414 314.35862 L 1411.0414 350.49655 L 623.2345 234.85517 Z" fill="#929292" fill-opacity=".25"/>
+      </g>
+      <g id="Group_47">
+        <g id="Graphic_80">
+          <rect x="457" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="457" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(457 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">J</tspan>
+          </text>
+        </g>
+        <g id="Graphic_79">
+          <rect x="485.91034" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="485.91034" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(485.91034 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">U</tspan>
+          </text>
+        </g>
+        <g id="Graphic_78">
+          <rect x="514.8207" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="514.8207" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(514.8207 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">A</tspan>
+          </text>
+        </g>
+        <g id="Graphic_77">
+          <rect x="543.73103" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="543.73103" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(543.73103 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">N</tspan>
+          </text>
+        </g>
+        <g id="Graphic_76">
+          <rect x="572.6414" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="572.6414" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+        </g>
+        <g id="Graphic_75">
+          <rect x="601.5517" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="601.5517" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(601.5517 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">P</tspan>
+          </text>
+        </g>
+        <g id="Graphic_74">
+          <rect x="630.4621" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="630.4621" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(630.4621 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">.</tspan>
+          </text>
+        </g>
+        <g id="Graphic_73">
+          <rect x="659.3724" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="659.3724" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+        </g>
+        <g id="Graphic_72">
+          <rect x="688.28276" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="688.28276" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(688.28276 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">P</tspan>
+          </text>
+        </g>
+        <g id="Graphic_71">
+          <rect x="717.1931" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="717.1931" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(717.1931 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">E</tspan>
+          </text>
+        </g>
+        <g id="Graphic_70">
+          <rect x="746.10345" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="746.10345" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(746.10345 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">R</tspan>
+          </text>
+        </g>
+        <g id="Graphic_69">
+          <rect x="775.0138" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="775.0138" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(775.0138 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">E</tspan>
+          </text>
+        </g>
+        <g id="Graphic_68">
+          <rect x="803.9241" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="803.9241" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(803.9241 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">Z</tspan>
+          </text>
+        </g>
+        <g id="Graphic_67">
+          <rect x="832.8345" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="832.8345" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+        </g>
+        <g id="Graphic_66">
+          <rect x="861.7448" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="861.7448" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(861.7448 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">M</tspan>
+          </text>
+        </g>
+        <g id="Graphic_65">
+          <rect x="890.6552" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="890.6552" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(890.6552 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">U</tspan>
+          </text>
+        </g>
+        <g id="Graphic_64">
+          <rect x="919.5655" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="919.5655" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(919.5655 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">Ñ</tspan>
+          </text>
+        </g>
+        <g id="Graphic_63">
+          <rect x="948.4759" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="948.4759" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(948.4759 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">O</tspan>
+          </text>
+        </g>
+        <g id="Graphic_62">
+          <rect x="977.3862" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="977.3862" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(977.3862 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">Z</tspan>
+          </text>
+        </g>
+        <g id="Graphic_61">
+          <rect x="1006.2966" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1006.2966" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+        </g>
+        <g id="Graphic_60">
+          <rect x="1035.2069" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1035.2069" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1035.2069 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">0</tspan>
+          </text>
+        </g>
+        <g id="Graphic_59">
+          <rect x="1064.1172" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1064.1172" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1064.1172 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">7</tspan>
+          </text>
+        </g>
+        <g id="Graphic_58">
+          <rect x="1093.0276" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1093.0276" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1093.0276 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">8</tspan>
+          </text>
+        </g>
+        <g id="Graphic_57">
+          <rect x="1121.9379" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1121.9379" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1121.9379 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">9</tspan>
+          </text>
+        </g>
+        <g id="Graphic_56">
+          <rect x="1150.8483" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1150.8483" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1150.8483 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">2</tspan>
+          </text>
+        </g>
+        <g id="Graphic_55">
+          <rect x="1179.7586" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1179.7586" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1179.7586 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">6</tspan>
+          </text>
+        </g>
+        <g id="Graphic_54">
+          <rect x="1208.669" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1208.669" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1208.669 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_53">
+          <rect x="1237.5793" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1237.5793" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1237.5793 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_52">
+          <rect x="1266.4897" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1266.4897" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1266.4897 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">K</tspan>
+          </text>
+        </g>
+        <g id="Graphic_51">
+          <rect x="1295.4" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1295.4" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+        </g>
+        <g id="Graphic_50">
+          <rect x="1324.3103" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1324.3103" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1324.3103 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">0</tspan>
+          </text>
+        </g>
+        <g id="Graphic_49">
+          <rect x="1353.2207" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1353.2207" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1353.2207 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_48">
+          <rect x="1382.131" y="314.35862" width="28.910345" height="36.13793" fill="#c1c1c1"/>
+          <rect x="1382.131" y="314.35862" width="28.910345" height="36.13793" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(1382.131 321.4276)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="9.055173" y="17">4</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_38">
+        <g id="Graphic_46">
+          <rect x="731.6483" y="401.08966" width="21.682759" height="28.910345" fill="#c1c1c1"/>
+          <rect x="731.6483" y="401.08966" width="21.682759" height="28.910345" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(731.6483 404.54483)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="5.441379" y="17">0</tspan>
+          </text>
+        </g>
+        <g id="Graphic_45">
+          <rect x="753.331" y="401.08966" width="21.682759" height="28.910345" fill="#c1c1c1"/>
+          <rect x="753.331" y="401.08966" width="21.682759" height="28.910345" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(753.331 404.54483)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="5.441379" y="17">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_44">
+          <rect x="775.0138" y="401.08966" width="21.682759" height="28.910345" fill="#c1c1c1"/>
+          <rect x="775.0138" y="401.08966" width="21.682759" height="28.910345" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(775.0138 404.54483)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="5.441379" y="17">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_43">
+          <rect x="796.69655" y="401.08966" width="21.682759" height="28.910345" fill="#c1c1c1"/>
+          <rect x="796.69655" y="401.08966" width="21.682759" height="28.910345" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(796.69655 404.54483)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="5.441379" y="17">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_42">
+          <rect x="818.3793" y="401.08966" width="21.682759" height="28.910345" fill="#c1c1c1"/>
+          <rect x="818.3793" y="401.08966" width="21.682759" height="28.910345" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(818.3793 404.54483)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="5.441379" y="17">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_41">
+          <rect x="838.2552" y="401.08966" width="21.682759" height="28.910345" fill="#c1c1c1"/>
+          <rect x="838.2552" y="401.08966" width="21.682759" height="28.910345" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(838.2552 404.54483)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="5.441379" y="17">0</tspan>
+          </text>
+        </g>
+        <g id="Graphic_40">
+          <rect x="859.9379" y="401.08966" width="21.682759" height="28.910345" fill="#c1c1c1"/>
+          <rect x="859.9379" y="401.08966" width="21.682759" height="28.910345" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(859.9379 404.54483)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="5.441379" y="17">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_39">
+          <rect x="881.6207" y="401.08966" width="21.682759" height="28.910345" fill="#c1c1c1"/>
+          <rect x="881.6207" y="401.08966" width="21.682759" height="28.910345" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+          <text transform="translate(881.6207 404.54483)" fill="white">
+            <tspan font-family="Fira Mono" font-size="18" font-weight="400" fill="white" x="5.441379" y="17">0</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_37">
+        <text transform="translate(887.2345 257.0724)" fill="#21373a">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="300" fill="#21373a" x="0" y="13">Byte</tspan>
+        </text>
+      </g>
+      <g id="Graphic_36">
+        <rect x="859.9379" y="401.08966" width="21.682759" height="28.910345" fill="black" fill-opacity=".15"/>
+      </g>
+      <g id="Line_35">
+        <path d="M 883.6095 265.5724 L 807.5379 265.5724 L 807.5379 332.6095" marker-end="url(#FilledBall_Marker)" marker-start="url(#FilledBall_Marker_2)" stroke="#21373a" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_34">
+        <rect x="457" y="314.35862" width="578.2069" height="36.13793" fill="black" fill-opacity=".15"/>
+      </g>
+      <g id="Line_33">
+        <path d="M 742.48966 401.08966 L 742.48966 377.6 L 808.2607 377.6 L 808.2607 350.49655" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Group_22">
+        <g id="Graphic_32">
+          <rect x="803.9241" y="314.35862" width="2.8910345" height="36.13793" fill="black" fill-opacity=".15"/>
+        </g>
+        <g id="Graphic_31">
+          <rect x="809.7062" y="314.35862" width="2.8910345" height="36.13793" fill="black" fill-opacity=".15"/>
+        </g>
+        <g id="Graphic_30">
+          <rect x="812.5972" y="314.35862" width="2.8910345" height="36.13793" fill="black" fill-opacity=".15"/>
+        </g>
+        <g id="Graphic_29">
+          <rect x="815.4883" y="314.35862" width="2.8910345" height="36.13793" fill="black" fill-opacity=".15"/>
+        </g>
+        <g id="Graphic_28">
+          <rect x="818.3793" y="314.35862" width="2.8910345" height="36.13793" fill="black" fill-opacity=".15"/>
+        </g>
+        <g id="Graphic_27">
+          <rect x="821.2703" y="314.35862" width="2.8910345" height="36.13793" fill="black" fill-opacity=".15"/>
+        </g>
+        <g id="Graphic_26">
+          <rect x="824.1614" y="314.35862" width="2.8910345" height="36.13793" fill="black" fill-opacity=".15"/>
+        </g>
+        <g id="Graphic_25">
+          <rect x="806.8152" y="314.35862" width="2.8910345" height="36.13793" fill="black" fill-opacity=".15"/>
+        </g>
+        <g id="Graphic_24">
+          <rect x="827.0524" y="314.35862" width="2.8910345" height="36.13793" fill="black" fill-opacity=".15"/>
+        </g>
+        <g id="Graphic_23">
+          <rect x="829.9434" y="314.35862" width="2.8910345" height="36.13793" fill="black" fill-opacity=".15"/>
+        </g>
+      </g>
+      <g id="Line_21">
+        <path d="M 764.1724 401.08966 L 764.1724 381.2138 L 811.1517 381.2138 L 811.1517 350.49655" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Line_20">
+        <path d="M 785.8552 401.08966 L 785.8552 384.8276 L 814.0428 384.8276 L 814.0428 350.49655" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Line_19">
+        <path d="M 807.5379 401.08966 L 807.5379 388.4414 L 816.9338 388.4414 L 816.9338 350.49655" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Line_18">
+        <path d="M 829.2207 401.08966 L 829.2207 388.4414 L 819.8248 388.4414 L 819.8248 350.49655" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Line_17">
+        <path d="M 849.0966 401.08966 L 849.0966 384.8276 L 822.7159 384.8276 L 822.7159 350.49655" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Line_16">
+        <path d="M 870.7793 401.08966 L 870.7793 381.2138 L 825.6069 381.2138 L 825.6069 350.49655" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Line_15">
+        <path d="M 892.4621 401.08966 L 892.4621 377.6 L 828.4979 377.6 L 828.4979 350.49655" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(887.2345 275.14138)" fill="#21373a">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="300" fill="#21373a" x="0" y="13">Bit</tspan>
+        </text>
+      </g>
+      <g id="Line_13">
+        <path d="M 883.6095 283.64138 L 863.5517 283.64138 L 863.5517 415.7267" marker-end="url(#FilledBall_Marker)" marker-start="url(#FilledBall_Marker_2)" stroke="#21373a" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(887.2345 239.00345)" fill="#21373a">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="300" fill="#21373a" x="0" y="13">Campo</tspan>
+        </text>
+      </g>
+      <g id="Line_11">
+        <path d="M 883.6095 247.50345 L 460.6138 247.50345 L 460.6138 332.6095" marker-end="url(#FilledBall_Marker)" marker-start="url(#FilledBall_Marker_2)" stroke="#21373a" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_10">
+        <text transform="translate(887.2345 202.86552)" fill="#21373a">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="300" fill="#21373a" x="0" y="13">Archivo</tspan>
+        </text>
+      </g>
+      <g id="Line_9">
+        <line x1="883.6095" y1="211.3656" x2="622.1232" y2="211.37881" marker-end="url(#FilledBall_Marker)" marker-start="url(#FilledBall_Marker_2)" stroke="#21373a" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_8">
+        <text transform="translate(887.2345 220.93448)" fill="#21373a">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="300" fill="#21373a" x="0" y="13">Registro</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <text transform="translate(887.2345 184.79655)" fill="#21373a">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="300" fill="#21373a" x="0" y="13">Base de datos</tspan>
+        </text>
+      </g>
+      <g id="Line_6">
+        <line x1="883.6095" y1="229.43448" x2="617.6319" y2="229.43448" marker-end="url(#FilledBall_Marker)" marker-start="url(#FilledBall_Marker_2)" stroke="#21373a" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Line_5">
+        <line x1="883.6095" y1="193.29655" x2="630.2802" y2="193.29655" marker-end="url(#FilledBall_Marker)" marker-start="url(#FilledBall_Marker_2)" stroke="#21373a" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Line_4">
+        <line x1="887.0414" y1="256.53793" x2="1165.3034" y2="256.53793" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".25"/>
+      </g>
+      <g id="Graphic_3">
+        <text transform="translate(1026.3655 239.00345)" fill="#21373a">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="300" fill="#21373a" x="0" y="13">Almacenamiento Lógico</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2">
+        <text transform="translate(1026.3655 255.26552)" fill="#21373a">
+          <tspan font-family="Fira Sans" font-size="14" font-weight="300" fill="#21373a" x="0" y="13">Almacenamiento Físico</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
