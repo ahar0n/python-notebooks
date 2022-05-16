@@ -1,66 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-59 -240 661 331" width="661" height="331">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-59 -240 661 331" width="661" height="331">
   <defs>
-    <font-face font-family="Bradley Hand" font-size="14" panose-1="0 0 7 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-166" underline-thickness="61" slope="0" x-height="494" cap-height="543" ascent="850.0061" descent="-399.00208" font-weight="700" font-stretch="expanded">
-      <font-face-src>
-        <font-face-name name="BradleyHandITCTT-Bold"/>
-      </font-face-src>
-    </font-face>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="black">
       <g>
         <path d="M 2.4 0 L 0 0 M 0 -.9 L 2.4 0 L 0 .9" fill="none" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <font-face font-family="Bradley Hand" font-size="12" panose-1="0 0 7 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-166" underline-thickness="61" slope="0" x-height="494" cap-height="543" ascent="850.0061" descent="-399.00208" font-weight="700" font-stretch="expanded">
-      <font-face-src>
-        <font-face-name name="BradleyHandITCTT-Bold"/>
-      </font-face-src>
-    </font-face>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -2 6 4" markerWidth="6" markerHeight="4" color="black">
       <g>
         <path d="M -2.4 0 L 0 0 M 0 .9 L -2.4 0 L 0 -.9" fill="none" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <font-face font-family="Bradley Hand" font-size="10" panose-1="0 0 7 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-166" underline-thickness="61" slope="0" x-height="494" cap-height="543" ascent="850.0061" descent="-399.00208" font-weight="700" font-stretch="expanded">
-      <font-face-src>
-        <font-face-name name="BradleyHandITCTT-Bold"/>
-      </font-face-src>
-    </font-face>
-    <font-face font-family="JetBrains Mono NL" font-size="10" panose-1="2 0 0 9 0 0 0 0 0 0" units-per-em="1000" underline-position="-155" underline-thickness="50" slope="0" x-height="550" cap-height="730" ascent="1020.0043" descent="-300.00305" font-weight="700">
-      <font-face-src>
-        <font-face-name name="JetBrainsMonoNL-Bold"/>
-      </font-face-src>
-    </font-face>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#d6d6d6">
       <g>
         <path d="M 2.4 0 L 0 0 M 0 -.9 L 2.4 0 L 0 .9" fill="none" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
   </defs>
-  <metadata> Produced by OmniGraffle 7.11.5 
-    <dc:date>2021-08-30 04:45:47 +0000</dc:date>
-  </metadata>
-  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" stroke="none">
+  <g id="Canvas_1" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none" stroke-dasharray="none">
     <title>Canvas 1</title>
-    <g id="Canvas_1: Layer 1">
+    <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Line_4">
         <path d="M 366.7295 -211.5 C 342.46375 -204.65203 307.47986 -196.67309 291.09755 -188.5 M 366.7295 -211.5 C 342.96375 -205.15203 307.97986 -197.1731 291.59755 -189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_22">
         <text transform="translate(359.5 -234.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="8668621e-19" y="12">Tipos de datos</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="8597567e-19" y="12">Tipos de datos</tspan>
         </text>
       </g>
       <g id="Graphic_23">
         <text transform="translate(245 -183.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="42632564e-20" y="12">Primitivos</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="4192202e-19" y="12">Primitivos</tspan>
         </text>
       </g>
       <g id="Graphic_24">
         <text transform="translate(487.5 -183.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="17053026e-20" y="12">Secuencias</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="17053026e-20" y="12">Secuencias</tspan>
         </text>
       </g>
       <g id="Line_25">
@@ -68,7 +45,7 @@
       </g>
       <g id="Graphic_26">
         <text transform="translate(105.6 -148.4)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">Enteros</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="0" y="12">Enteros</tspan>
         </text>
       </g>
       <g id="Line_27">
@@ -76,7 +53,7 @@
       </g>
       <g id="Graphic_28">
         <text transform="translate(120.8 -115.45)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">Flotantes</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="0" y="12">Flotantes</tspan>
         </text>
       </g>
       <g id="Line_29">
@@ -84,7 +61,7 @@
       </g>
       <g id="Graphic_30">
         <text transform="translate(229.8 -53.8)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="58264504e-20" y="12">Booleano</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="58264504e-20" y="12">Booleano</tspan>
         </text>
       </g>
       <g id="Line_31">
@@ -92,12 +69,12 @@
       </g>
       <g id="Graphic_32">
         <text transform="translate(350.4 -136)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">Cadenas</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="0" y="12">Cadenas</tspan>
         </text>
       </g>
       <g id="Graphic_33">
         <text transform="translate(301.4 -82.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">None</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="0" y="12">None</tspan>
         </text>
       </g>
       <g id="Line_34">
@@ -111,7 +88,7 @@
       </g>
       <g id="Graphic_37">
         <text transform="translate(468 -107.5)" fill="#d6d6d6">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="#d6d6d6" x="29132252e-20" y="12">Listas</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="#d6d6d6" x="29132252e-20" y="12">Listas</tspan>
         </text>
       </g>
       <g id="Line_38">
@@ -119,7 +96,7 @@
       </g>
       <g id="Graphic_39">
         <text transform="translate(555 -111)" fill="#d6d6d6">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="#d6d6d6" x="53645977e-20" y="12">Tuplas</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="#d6d6d6" x="53645977e-20" y="12">Tuplas</tspan>
         </text>
       </g>
       <g id="Line_40">
@@ -127,7 +104,7 @@
       </g>
       <g id="Graphic_41">
         <text transform="translate(149.699 -82.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="1563194e-19" y="12">Complejos</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="15987212e-20" y="12">Complejos</tspan>
         </text>
       </g>
       <g id="Line_42">
@@ -136,8 +113,8 @@
       <g id="Graphic_43"/>
       <g id="Graphic_45">
         <text transform="translate(-23 32.2)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="1.53" y="10">Operaciones </tspan>
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="2.814" y="25">aritméticas</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="1.53" y="10">Operaciones </tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="2.814" y="25">aritméticas</tspan>
         </text>
       </g>
       <g id="Line_46">
@@ -150,9 +127,9 @@
         <path d="M 160.99924 -60.26432 L 44.806175 22.954866 M 161.2806 -60.470525 L 45.497304 22.43574" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_49">
-        <text transform="translate(149.699 32.2)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="10.308" y="10">Operadores</tspan>
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="1.53" y="25">Condicionales </tspan>
+        <text transform="translate(155.765 32.2)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="4.242" y="10">Operadores</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="1.53" y="25">relacionales </tspan>
         </text>
       </g>
       <g id="Line_50">
@@ -160,14 +137,14 @@
       </g>
       <g id="Graphic_51">
         <text transform="translate(236.545 -5.4)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="10" font-weight="700" fill="black" x="1.275" y="9">retornan </tspan>
-          <tspan font-family="Bradley Hand" font-size="10" font-weight="700" fill="black" x="5.315" y="22">valores</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="10" fill="black" x="1.275" y="9">retornan </tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="10" fill="black" x="5.315" y="22">valores</tspan>
         </text>
       </g>
       <g id="Graphic_52">
         <text transform="translate(287.533 32.2)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="1.53" y="10">Operadores </tspan>
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="11.688" y="25">lógicos </tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="1.53" y="10">Operadores </tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="11.688" y="25">lógicos </tspan>
         </text>
       </g>
       <g id="Line_53">
@@ -175,18 +152,18 @@
       </g>
       <g id="Graphic_54">
         <text transform="translate(432.6 -163.4)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="10" font-weight="700" fill="black" x="6545875e-19" y="9">es</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="10" fill="black" x="6545875e-19" y="9">es</tspan>
         </text>
       </g>
       <g id="Graphic_55">
         <text transform="translate(481.4 32.2)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="7.002" y="10">Operadores </tspan>
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="0" y="25">de secuencias</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="7.002" y="10">Operadores </tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="0" y="25">de secuencias</tspan>
         </text>
       </g>
       <g id="Graphic_56">
         <text transform="translate(498.108 72.2)" fill="black">
-          <tspan font-family="JetBrains Mono NL" font-size="10" font-weight="700" fill="black" x="0" y="10">+  *  in</tspan>
+          <tspan font-family="JetBrains Mono NL" font-weight="bold" font-size="10" fill="black" x="0" y="10">+  *  in</tspan>
         </text>
       </g>
       <g id="Line_57">
@@ -200,17 +177,17 @@
       </g>
       <g id="Graphic_60">
         <text transform="translate(281.185 72.2)" fill="black">
-          <tspan font-family="JetBrains Mono NL" font-size="10" font-weight="700" fill="black" x="0" y="10">and  or  not</tspan>
+          <tspan font-family="JetBrains Mono NL" font-weight="bold" font-size="10" fill="black" x="0" y="10">and  or  not</tspan>
         </text>
       </g>
       <g id="Graphic_61">
         <text transform="translate(131.129 72.2)" fill="black">
-          <tspan font-family="JetBrains Mono NL" font-size="10" font-weight="700" fill="black" x="0" y="10">=  &gt;  &lt;  !=  &gt;=  &lt;=</tspan>
+          <tspan font-family="JetBrains Mono NL" font-weight="bold" font-size="10" fill="black" x="0" y="10">=  &gt;  &lt;  !=  &gt;=  &lt;=</tspan>
         </text>
       </g>
       <g id="Graphic_62">
         <text transform="translate(-53.522 72.2)" fill="black">
-          <tspan font-family="JetBrains Mono NL" font-size="10" font-weight="700" fill="black" x="0" y="10">+  -  *  /  **  %  //</tspan>
+          <tspan font-family="JetBrains Mono NL" font-weight="bold" font-size="10" fill="black" x="0" y="10">+  -  *  /  **  %  //</tspan>
         </text>
       </g>
     </g>
