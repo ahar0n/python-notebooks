@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-59 -240 661 331" width="661" height="331">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-39 -240 644 436" width="644" height="436">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="black">
       <g>
@@ -12,182 +12,195 @@
         <path d="M -2.4 0 L 0 0 M 0 .9 L -2.4 0 L 0 -.9" fill="none" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#d6d6d6">
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#ebebeb">
       <g>
         <path d="M 2.4 0 L 0 0 M 0 -.9 L 2.4 0 L 0 .9" fill="none" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
   </defs>
-  <g id="Canvas_1" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none" stroke-dasharray="none">
+  <g id="Canvas_1" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" fill="none" stroke="none">
     <title>Canvas 1</title>
     <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Line_4">
-        <path d="M 366.7295 -211.5 C 342.46375 -204.65203 307.47986 -196.67309 291.09755 -188.5 M 366.7295 -211.5 C 342.96375 -205.15203 307.97986 -197.1731 291.59755 -189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 362.84357 -209.5 C 340.09985 -203.15967 308.96223 -195.80397 293.1651 -188.5 M 362.84357 -209.5 C 340.59985 -203.65967 309.46223 -196.30397 293.6651 -189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_22">
-        <text transform="translate(359.5 -234.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="8597567e-19" y="12">Tipos de datos</tspan>
+        <text transform="translate(353.442 -234.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="14">Tipos de datos</tspan>
         </text>
       </g>
       <g id="Graphic_23">
-        <text transform="translate(245 -183.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="4192202e-19" y="12">Primitivos</tspan>
+        <text transform="translate(240.427 -183.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="7460699e-19" y="14">Primitivos</tspan>
         </text>
       </g>
       <g id="Graphic_24">
-        <text transform="translate(487.5 -183.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="17053026e-20" y="12">Secuencias</tspan>
+        <text transform="translate(482.556 -183.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="14">Secuencias</tspan>
         </text>
       </g>
       <g id="Line_25">
-        <path d="M 434.98236 -211.5 C 461.57876 -205.68822 491.4406 -197.5868 508.8693 -188.5 M 434.98236 -211.5 C 462.07876 -206.18822 491.9406 -198.0868 509.3693 -189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 438.7641 -209.5 C 463.72767 -204.13096 490.04633 -196.67247 506.8631 -188.5 M 438.7641 -209.5 C 464.22767 -204.63096 490.54633 -197.17247 507.3631 -189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_26">
-        <text transform="translate(105.6 -148.4)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="0" y="12">Enteros</tspan>
+        <text transform="translate(102.308 -148.4)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="14">Enteros</tspan>
         </text>
       </g>
       <g id="Line_27">
-        <path d="M 156.688 -144.80723 C 181.18862 -151.58558 211.68188 -166.66964 240 -173.92834 M 156.688 -144.80723 C 181.68862 -152.08558 212.18188 -167.16964 240.5 -174.42834" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 159.98 -144.95398 C 182.78314 -151.3889 209.17241 -164.48522 235.427 -171.5512 M 159.98 -144.95398 C 183.28314 -151.8889 209.67241 -164.98522 235.927 -172.0512" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_28">
-        <text transform="translate(120.8 -115.45)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="0" y="12">Flotantes</tspan>
+        <text transform="translate(116.761 -115.45)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="14">Flotantes</tspan>
         </text>
       </g>
       <g id="Line_29">
-        <path d="M 251.8131 -161.08665 L 174.48682 -120.68942 M 252.106 -161.25454 L 175.49767 -121.32312" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 249.93328 -159.08621 L 176.36672 -120.68971 M 250.22615 -159.25408 L 177.37773 -121.32312" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_30">
-        <text transform="translate(229.8 -53.8)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="58264504e-20" y="12">Booleano</tspan>
+        <text transform="translate(225.945 -53.8)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="14566126e-20" y="14">Booleano</tspan>
         </text>
       </g>
       <g id="Line_31">
-        <path d="M 258.67486 -56.83955 L 274.28003 -161.1232 M 258.8503 -57.10071 L 274.2903 -160.58338" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 258.83105 -56.83952 L 274.124 -159.12321 M 259.00648 -57.100667 L 274.13435 -158.58336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_32">
-        <text transform="translate(350.4 -136)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="0" y="12">Cadenas</tspan>
+        <text transform="translate(346.673 -136)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="7105427e-19" y="14">Cadenas</tspan>
         </text>
       </g>
       <g id="Graphic_33">
-        <text transform="translate(301.4 -82.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="0" y="12">None</tspan>
+        <text transform="translate(299.145 -82.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="8739676e-19" y="14">None</tspan>
         </text>
       </g>
       <g id="Line_34">
-        <path d="M 282.2786 -161.24688 L 312.45797 -86.37997 M 282.6905 -161.56214 L 312.4524 -87.35007" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 282.67627 -159.24684 L 312.0603 -86.38001 M 283.08814 -159.56212 L 312.05462 -87.35008" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Line_35">
-        <path d="M 304.59936 -161.31325 L 348.14196 -140.86184 M 304.86676 -161.6003 L 347.7536 -141.50686" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 306.69305 -159.312 L 346.0479 -140.86233 M 306.9604 -159.59905 L 345.6593 -141.50688" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Line_36">
-        <path d="M 406.1372 -136.65485 L 475.52853 -160.07066 M 406.3369 -137.0539 L 475.04394 -160.2207" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 409.86494 -136.86842 L 470.5842 -157.45899 M 410.0644 -137.26739 L 470.09974 -157.60793" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_37">
-        <text transform="translate(468 -107.5)" fill="#d6d6d6">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="#d6d6d6" x="29132252e-20" y="12">Listas</tspan>
+        <text transform="translate(465.26 -107.5)" fill="#d6d6d6">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="#d6d6d6" x="7105427e-20" y="14">Listas</tspan>
         </text>
       </g>
       <g id="Line_38">
-        <path d="M 515.9864 -161.1663 L 492.84264 -111.82432 M 516.3632 -161.35682 L 493.6114 -112.59595" stroke="#d6d6d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 515.52707 -159.1662 L 493.302 -111.82442 M 515.90385 -159.35667 L 494.07094 -112.59587" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_39">
-        <text transform="translate(555 -111)" fill="#d6d6d6">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="#d6d6d6" x="53645977e-20" y="12">Tuplas</tspan>
+        <text transform="translate(552.006 -111)" fill="#d6d6d6">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="#d6d6d6" x="0" y="14">Tuplas</tspan>
         </text>
       </g>
       <g id="Line_40">
-        <path d="M 531.6691 -161.68523 L 564.94444 -114.59632 M 532.0194 -162.00611 L 564.9019 -115.4442" stroke="#d6d6d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 532.41316 -159.68616 L 564.2011 -114.5959 M 532.76354 -160.00693 L 564.1592 -115.44411" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_41">
-        <text transform="translate(149.699 -82.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="15987212e-20" y="12">Complejos</tspan>
+        <text transform="translate(145.417 -82.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="14">Complejos</tspan>
         </text>
       </g>
       <g id="Line_42">
-        <path d="M 192.70217 -87.02061 L 264.43964 -161.26166 M 192.87624 -87.34398 L 264.10368 -161.21338" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 193.6659 -87.02063 L 263.4759 -159.26164 M 193.83997 -87.344 L 263.13994 -159.21338" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
-      <g id="Graphic_43"/>
       <g id="Graphic_45">
-        <text transform="translate(-23 32.2)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="1.53" y="10">Operaciones </tspan>
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="2.814" y="25">aritméticas</tspan>
+        <text transform="translate(-33.826 32.2)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="2.04" y="14">Operaciones </tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="3.752" y="34">aritméticas</tspan>
         </text>
       </g>
       <g id="Line_46">
-        <path d="M 120.02724 -125.90187 L 25.766796 20.158226 M 120.33698 -126.11331 L 26.466758 19.543092" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 119.58488 -123.90492 L 28.56365 20.1196 M 119.89498 -124.11693 L 29.260126 19.50021" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Line_47">
-        <path d="M 137.50097 -93.71117 L 31.93367 22.330414 M 137.88966 -93.835 L 32.715527 21.84362" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 136.92216 -91.7256 L 35.828003 22.265838 M 137.31243 -91.8512 L 36.60682 21.77233" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Line_48">
-        <path d="M 160.99924 -60.26432 L 44.806175 22.954866 M 161.2806 -60.470525 L 45.497304 22.43574" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 160.25545 -58.28105 L 50.657273 22.85982 M 160.5375 -58.48776 L 51.344103 22.333772" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_49">
-        <text transform="translate(155.765 32.2)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="4.242" y="10">Operadores</tspan>
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="1.53" y="25">relacionales </tspan>
+        <text transform="translate(134.8 30.2)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="5.656" y="14">Operadores</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="2.04" y="34">relacionales </tspan>
         </text>
       </g>
       <g id="Line_50">
-        <path d="M 241.8027 -24.735907 L 202.3144 29.762115 M 242.08235 -24.964417 L 203.84437 27.994542" marker-start="url(#StickArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 239.33352 -23.003232 L 198.09068 27.694724 M 239.61193 -23.230118 L 199.7034 26.001014" marker-start="url(#StickArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_51">
-        <text transform="translate(236.545 -5.4)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="10" fill="black" x="1.275" y="9">retornan </tspan>
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="10" fill="black" x="5.315" y="22">valores</tspan>
+        <text transform="translate(224.401 -1.4000001)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="2.04" y="14">retornan </tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="8.504" y="34">valores</tspan>
         </text>
       </g>
       <g id="Graphic_52">
-        <text transform="translate(287.533 32.2)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="1.53" y="10">Operadores </tspan>
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="11.688" y="25">lógicos </tspan>
+        <text transform="translate(303.8 30.2)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="2.04" y="14">Operadores </tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="15.584" y="34">lógicos </tspan>
         </text>
       </g>
       <g id="Line_53">
-        <path d="M 304.51987 27.912505 L 269.0149 -26.455672 M 304.6562 27.73674 L 270.26983 -25.06074" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 320.89078 25.82856 L 274.4308 -25.07795 M 321.0405 25.67008 L 275.93677 -23.865697" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_54">
-        <text transform="translate(432.6 -163.4)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="10" fill="black" x="6545875e-19" y="9">es</tspan>
+        <text transform="translate(428 -167.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="14">es</tspan>
         </text>
       </g>
       <g id="Graphic_55">
-        <text transform="translate(481.4 32.2)" fill="black">
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="7.002" y="10">Operadores </tspan>
-          <tspan font-family="Bradley Hand" font-weight="bold" font-size="12" fill="black" x="0" y="25">de secuencias</tspan>
+        <text transform="translate(469.692 32.2)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="9.336" y="14">Operadores </tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="3339551e-19" y="34">de secuencias</tspan>
         </text>
       </g>
       <g id="Graphic_56">
-        <text transform="translate(498.108 72.2)" fill="black">
-          <tspan font-family="JetBrains Mono NL" font-weight="bold" font-size="10" fill="black" x="0" y="10">+  *  in</tspan>
+        <text transform="translate(506.92244 82.2)" fill="black">
+          <tspan font-family="Courier New" font-size="16" fill="black" x="4.800781" y="13">+</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="4.800781" y="31">*</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="49">in</tspan>
         </text>
       </g>
       <g id="Line_57">
-        <path d="M 387.25365 -113.60932 L 497.14713 23.156722 M 387.5826 -113.92277 L 496.2534 21.445005" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 387.7936 -111.61467 L 493.633 23.113685 M 388.12324 -111.92724 L 492.7554 21.38948" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Line_58">
-        <path d="M 489.6213 -86.35106 L 511.61953 21.292647 M 490.0846 -86.64465 L 511.5779 19.226127" marker-end="url(#StickArrow_Marker_3)" stroke="#d6d6d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 489.75145 -84.35297 L 510.779 21.28633 M 490.2149 -84.64546 L 510.74664 19.218344" marker-end="url(#StickArrow_Marker_3)" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Line_59">
-        <path d="M 570.9356 -89.3905 L 526.9106 21.00746 M 571.26366 -89.60937 L 527.9575 19.115432" marker-end="url(#StickArrow_Marker_3)" stroke="#d6d6d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path d="M 570.6807 -87.39545 L 528.58974 20.986783 M 571.009 -87.61503 L 529.6218 19.087626" marker-end="url(#StickArrow_Marker_3)" stroke="#ebebeb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_60">
-        <text transform="translate(281.185 72.2)" fill="black">
-          <tspan font-family="JetBrains Mono NL" font-weight="bold" font-size="10" fill="black" x="0" y="10">and  or  not</tspan>
+        <text transform="translate(326.8 80.2)" fill="black">
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="13">and</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="4.800781" y="31">or</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="49">not</tspan>
         </text>
       </g>
       <g id="Graphic_61">
-        <text transform="translate(131.129 72.2)" fill="black">
-          <tspan font-family="JetBrains Mono NL" font-weight="bold" font-size="10" fill="black" x="0" y="10">=  &gt;  &lt;  !=  &gt;=  &lt;=</tspan>
+        <text transform="translate(168.35044 80.2)" fill="black">
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="13">==</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="4.800781" y="31">&gt;</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="4.800781" y="49">&lt;</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="67">!=</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="85">&gt;=</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="103">&lt;=</tspan>
         </text>
       </g>
       <g id="Graphic_62">
-        <text transform="translate(-53.522 72.2)" fill="black">
-          <tspan font-family="JetBrains Mono NL" font-weight="bold" font-size="10" fill="black" x="0" y="10">+  -  *  /  **  %  //</tspan>
+        <text transform="translate(-.1235625 82.2)" fill="black">
+          <tspan font-family="Courier New" font-size="16" fill="black" x="4.800781" y="13">+</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="4.800781" y="31">-</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="4.800781" y="49">/</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="67">**</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="4.800781" y="85">%</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="103">//</tspan>
         </text>
       </g>
     </g>
