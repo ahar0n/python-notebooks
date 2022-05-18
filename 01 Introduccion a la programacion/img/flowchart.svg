@@ -1,60 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="202 120 642 54" width="642" height="54">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="202 120 642 65" width="642" height="65">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-2 -2 5 4" markerWidth="5" markerHeight="4" color="black">
       <g>
         <path d="M 1.5 0 L -.9 -.9 L 0 0 L 0 0 L -.9 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <font-face font-family="Bradley Hand" font-size="14" panose-1="0 0 7 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-166" underline-thickness="61" slope="0" x-height="494" cap-height="543" ascent="850.0061" descent="-399.00208" font-weight="700" font-stretch="expanded">
-      <font-face-src>
-        <font-face-name name="BradleyHandITCTT-Bold"/>
-      </font-face-src>
-    </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.11.5 
-    <dc:date>2021-08-28 03:41:56 +0000</dc:date>
-  </metadata>
-  <g id="Canvas_1" stroke="none" stroke-opacity="1" fill="none" fill-opacity="1" stroke-dasharray="none">
+  <g id="Canvas_1" stroke-opacity="1" fill="none" fill-opacity="1" stroke="none" stroke-dasharray="none">
     <title>Canvas 1</title>
-    <g id="Canvas_1: Layer 1">
+    <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Line_4">
         <path d="M 755.5 159.27468 C 774.0465 159.52032 811.5018 159.70416 835.7208 157.78422 M 755.5 159.27468 C 774.5465 159.02032 812.0018 159.20416 836.2208 157.28422" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_10">
-        <path d="M 218 129.5 L 281 129.5 C 288.452 129.5 294.5 137.564 294.5 147.5 C 294.5 157.436 288.452 165.5 281 165.5 L 218 165.5 C 210.548 165.5 204.5 157.436 204.5 147.5 C 204.5 137.564 210.548 129.5 218 129.5 Z" fill="white"/>
-        <path d="M 217.38939 129.49715 L 281.9732 129.79858 C 288.65893 129.62098 294.77788 138.47191 294.5 147.5 C 294.4954 157.53516 288.79906 165.20142 281 165.5 M 281.43088 165.4997 L 217.74102 165.545 C 209.94378 164.89775 203.82182 156.87324 204.5 147.5 C 203.92247 138.10386 209.95383 129.45532 218 129.5 M 217.5147 129.30644 L 281.5044 129.55262 C 288.90893 129.37098 295.02788 138.22191 294.75 147.25 C 294.7454 157.28516 289.04906 164.95142 281.25 165.25 M 281.55597 165.49767 L 218.58495 165.5017 C 210.19378 164.64775 204.07182 156.62324 204.75 147.25 C 204.17247 137.85386 210.20383 129.20532 218.25 129.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <text transform="translate(218.5 138.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="2.153" y="12">Terminal</tspan>
+        <path d="M 219.5 129.5 L 289.5 129.5 C 297.78 129.5 304.5 140.7 304.5 154.5 C 304.5 168.3 297.78 179.5 289.5 179.5 L 219.5 179.5 C 211.22 179.5 204.5 168.3 204.5 154.5 C 204.5 140.7 211.22 129.5 219.5 129.5 Z" fill="white"/>
+        <path d="M 218.88938 129.49743 L 290.47322 129.7983 C 298.0111 129.63512 304.88594 141.96099 304.5 154.5 C 304.4936 168.43772 298.16563 179.16825 289.5 179.5 M 289.9309 179.49972 L 219.24102 179.54495 C 210.55255 178.83472 203.55809 167.51839 204.5 154.5 C 203.69787 141.4498 210.5598 129.45035 219.5 129.5 M 219.01466 129.30672 L 290.00435 129.55262 C 298.2611 129.38512 305.13594 141.71099 304.75 154.25 C 304.7436 168.18772 298.41563 178.91825 289.75 179.25 M 290.05596 179.4977 L 220.08495 179.5017 C 210.80255 178.58472 203.80809 167.26839 204.75 154.25 C 203.94787 141.1998 210.8098 129.20035 219.75 129.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(219.5 144.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="2.032" y="14">Terminal</tspan>
         </text>
       </g>
       <g id="Graphic_12">
-        <rect x="335" y="129.5" width="90" height="36" fill="white"/>
-        <path d="M 334.0317 129.50317 L 425.6971 129.2031 M 425.1202 128.66022 L 425.13715 166.30978 M 425.4417 165.82851 L 334.24263 165.90825 M 335.0337 166.76288 L 334.99947 128.91203 M 334.15653 129.32108 L 425.2453 129.03281 M 425.2701 128.53521 L 425.3856 165.70372 M 425.56673 165.74077 L 335.15796 165.81573 M 335.06213 166.63796 L 335.08484 129.37504" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <text transform="translate(340 138.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="18.461" y="12">Proceso</tspan>
+        <rect x="335" y="129.5" width="100" height="50" fill="white"/>
+        <path d="M 334.0317 129.50285 L 435.6971 129.20329 M 435.1203 128.66022 L 435.1371 180.30978 M 435.4417 179.82854 L 334.24263 179.90818 M 335.0335 180.76288 L 334.9996 128.91203 M 334.15655 129.32076 L 435.2453 129.03281 M 435.2702 128.53521 L 435.3856 179.70374 M 435.56673 179.7408 L 335.15796 179.81573 M 335.0619 180.63794 L 335.08484 129.37503" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(340 144.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="20.384" y="14">Proceso</tspan>
         </text>
       </g>
       <g id="Graphic_13">
-        <path d="M 514.25 122.75 L 563 147.5 L 514.25 172.25 L 465.5 147.5 Z" fill="white"/>
-        <path d="M 513.5639 122.39584 L 563.4958 148.17001 M 563.3966 147.70909 L 513.51494 172.38217 M 514.5255 172.52892 L 465.40306 147.44086 M 465.11245 148.1354 L 514.88315 122.4229 M 513.74177 122.1684 L 563.1503 147.71867 M 563.56706 147.676 L 514.0189 172.09884 M 514.6121 172.47904 L 466.00645 147.68738 M 465.1898 147.9182 L 514.3508 122.57811" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <text transform="translate(483.6625 138.005)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="5.9355" y="12">Decisión</tspan>
+        <path d="M 520.5 122.75 L 575.5 152.75 L 520.5 182.75 L 465.5 152.75 Z" fill="white"/>
+        <path d="M 519.8243 122.37635 L 575.98814 153.43435 M 575.8902 152.94668 L 519.7707 182.89341 M 520.76547 183.04785 L 465.4113 152.67527 M 465.125 153.40884 L 521.12347 122.40481 M 520.0051 122.15047 L 575.65215 152.96967 M 576.0635 152.91216 L 520.2696 182.59847 M 520.8499 182.9968 L 466.0035 152.9358 M 465.19974 153.19306 L 520.59943 122.57882" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(485.35 142.15)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="6.962" y="14">Decisión</tspan>
         </text>
       </g>
       <g id="Graphic_14">
-        <path d="M 625.8 129.5 L 715 129.5 L 692.7 165.5 L 603.5 165.5 Z" fill="white"/>
-        <path d="M 625.22404 129.49926 L 715.421 129.61488 M 715.0519 129.30869 L 692.6489 165.35984 M 693.2173 165.07019 L 602.9333 165.51742 M 602.8081 166.3569 L 626.2432 128.78957 M 625.3491 129.32579 L 714.9872 129.388 M 715.2238 129.21283 L 692.9982 164.97538 M 693.34236 164.95163 L 603.45834 165.45882 M 602.83895 166.17319 L 625.8695 129.34039" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <text transform="translate(630.8 129.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x=".009000763" y="12">Entrada/</tspan>
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="7.485001" y="30">Salida</tspan>
+        <path d="M 630.2 129.5 L 737 129.5 L 710.3 179.5 L 603.5 179.5 Z" fill="white"/>
+        <path d="M 629.62404 129.49938 L 737.421 129.61477 M 737.0316 129.29698 L 710.26805 179.37087 M 710.8173 179.0705 L 602.9333 179.5171 M 602.8637 180.38914 L 630.59624 128.76237 M 629.7491 129.32591 L 736.9872 129.388 M 737.2053 129.198 L 710.59995 178.97236 M 710.94235 178.95195 L 603.4583 179.45882 M 602.89094 180.21163 L 630.2674 129.34405" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(635.2 134.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x=".54599924" y="14">Entrada o </tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="11.089999" y="34">Salida</tspan>
         </text>
       </g>
       <g id="Graphic_15">
-        <text transform="translate(783.2939 134.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">Flujo</tspan>
+        <text transform="translate(781.0849 134.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="47961635e-20" y="14">Flujo</tspan>
         </text>
       </g>
     </g>

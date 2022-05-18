@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="188 -13 361 322" width="361" height="322">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="188 -13 361 322" width="361" height="322">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-2 -2 5 4" markerWidth="5" markerHeight="4" color="black">
       <g>
         <path d="M 1.5 0 L -.9 -.9 L 0 0 L 0 0 L -.9 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <font-face font-family="JetBrains Mono" font-size="14" panose-1="2 0 0 9 0 0 0 0 0 0" units-per-em="1000" underline-position="-155" underline-thickness="50" slope="0" x-height="550" cap-height="730" ascent="1020.0043" descent="-300.00305" font-weight="300">
-      <font-face-src>
-        <font-face-name name="JetBrainsMono-Light"/>
-      </font-face-src>
-    </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.11.5 
-    <dc:date>2021-09-03 15:16:28 +0000</dc:date>
-  </metadata>
-  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+  <g id="Canvas_1" stroke-opacity="1" fill="none" fill-opacity="1" stroke="none" stroke-dasharray="none">
     <title>Canvas 1</title>
-    <g id="Canvas_1: Layer 1">
+    <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Line_4">
         <path d="M 368.5 25 C 367.68143 36.592067 367.28514 36.13909 368.64434 53.204495 M 368.5 25 C 368.18143 36.092067 367.78514 35.63909 369.14434 52.704495" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
@@ -26,22 +18,22 @@
       <g id="Graphic_10">
         <path d="M 337 -11 L 400 -11 C 407.452 -11 413.5 -2.936 413.5 7 C 413.5 16.936 407.452 25 400 25 L 337 25 C 329.548 25 323.5 16.936 323.5 7 C 323.5 -2.936 329.548 -11 337 -11 Z" fill="white"/>
         <path d="M 336.3894 -11.00285 L 400.9732 -10.701419 C 407.65893 -10.879022 413.7779 -2.028087 413.5 7 C 413.4954 17.035156 407.79906 24.701423 400 25 M 400.4309 24.999693 L 336.741 25.045003 C 328.94378 24.397747 322.82182 16.373238 323.5 7 C 322.92247 -2.3961427 328.95383 -11.044682 337 -11 M 336.5147 -11.193558 L 400.5044 -10.947377 C 407.90893 -11.129022 414.0279 -2.278087 413.75 6.75 C 413.7454 16.785156 408.04906 24.451423 400.25 24.75 M 400.55597 24.997667 L 337.58495 25.001703 C 329.19378 24.147747 323.07182 16.123238 323.75 6.75 C 323.17247 -2.6461427 329.20383 -11.294682 337.25 -11.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <text transform="translate(337.5 -2)" fill="black">
-          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="5.8" y="14">inicio</tspan>
+        <text transform="translate(337.5 -1.5)" fill="black">
+          <tspan font-family="Fira Mono" font-size="14" fill="black" x="5.8" y="13">inicio</tspan>
         </text>
       </g>
       <g id="Graphic_12">
         <rect x="191.3" y="130" width="354.4" height="36" fill="white"/>
         <path d="M 190.3317 130.0008 L 546.3971 129.7045 M 545.8202 129.16022 L 545.83716 166.80978 M 546.1417 166.32871 L 190.54263 166.40773 M 191.3337 167.26288 L 191.29947 129.41203 M 190.45666 129.81872 L 545.9454 129.53281 M 545.9701 129.03521 L 546.0856 166.20372 M 546.2667 166.24097 L 191.45794 166.31573 M 191.36213 167.13796 L 191.38484 129.87504" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <text transform="translate(196.3 139)" fill="black">
-          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="12.599997" y="14">d = ((xb - xa)**2 + (yb-ya)**2)**(1/2)</tspan>
+        <text transform="translate(196.3 139.5)" fill="black">
+          <tspan font-family="Fira Mono" font-size="14" fill="black" x="12.599997" y="13">d = ((xb - xa)**2 + (yb-ya)**2)**(1/2)</tspan>
         </text>
       </g>
       <g id="Graphic_14">
         <path d="M 309.7825 59.5 L 466.3625 59.5 L 427.2175 95.5 L 270.6375 95.5 Z" fill="white"/>
         <path d="M 309.20654 59.49958 L 466.7835 59.614576 M 466.4903 59.371815 L 427.09494 95.30038 M 427.73483 95.07101 L 270.07078 95.51657 M 269.73923 96.1854 L 310.3999 58.934376 M 309.33158 59.32611 L 466.34963 59.388 M 466.6525 59.2876 L 427.5063 94.98668 M 427.85985 94.95246 L 270.5957 95.45882 M 269.7893 95.97859 L 309.86332 59.32678" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <text transform="translate(314.7825 68.5)" fill="black">
-          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="3.3174988" y="14">xa,ya,xb, yb</tspan>
+        <text transform="translate(314.7825 69)" fill="black">
+          <tspan font-family="Fira Mono" font-size="14" fill="black" x="7.517499" y="13">xa,ya,xb,yb</tspan>
         </text>
       </g>
       <g id="Line_16">
@@ -50,8 +42,8 @@
       <g id="Graphic_17">
         <path d="M 320.365 200.5 L 448.725 200.5 L 416.635 236.5 L 288.275 236.5 Z" fill="white"/>
         <path d="M 319.62754 200.4987 L 449.7318 200.72888 M 449.75943 200.1126 L 415.65976 237.58454 M 417.14077 236.9372 L 287.74425 236.92723 M 288.01318 237.26242 L 320.6698 200.15366 M 319.7527 200.27566 L 449.32457 200.54578 M 449.91264 200.01327 L 416.382 236.81946 M 417.26577 236.83492 L 288.4331 236.86095 M 288.13255 237.13247 L 320.4125 200.30679" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <text transform="translate(325.365 209.5)" fill="black">
-          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="38.935" y="14">d</tspan>
+        <text transform="translate(325.365 210)" fill="black">
+          <tspan font-family="Fira Mono" font-size="14" fill="black" x="38.935" y="13">d</tspan>
         </text>
       </g>
       <g id="Line_18">
@@ -60,8 +52,8 @@
       <g id="Graphic_19">
         <path d="M 337 271 L 400 271 C 407.452 271 413.5 279.064 413.5 289 C 413.5 298.936 407.452 307 400 307 L 337 307 C 329.548 307 323.5 298.936 323.5 289 C 323.5 279.064 329.548 271 337 271 Z" fill="white"/>
         <path d="M 336.65488 271.00198 L 400.7307 270.63417 C 406.8792 270.53698 413.55797 279.15837 413.5 289 C 413.78645 298.98856 407.20337 307.0524 400 307 M 400.92326 306.99357 L 336.88607 307.43948 C 329.7293 306.251 323.12417 299.65202 323.5 289 C 323.47234 278.47382 329.2672 270.77073 337 271 M 336.77936 270.78756 L 400.34043 270.40097 C 407.1292 270.28698 413.80797 278.90837 413.75 288.75 C 414.03645 298.73856 407.45337 306.8024 400.25 306.75 M 401.0489 306.96244 L 337.5941 307.3323 C 329.9793 306.001 323.37417 299.40202 323.75 288.75 C 323.72234 278.22382 329.5172 270.52073 337.25 270.75" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-        <text transform="translate(337.5 280)" fill="black">
-          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="18.4" y="14">fin</tspan>
+        <text transform="translate(337.5 280.5)" fill="black">
+          <tspan font-family="Fira Mono" font-size="14" fill="black" x="18.4" y="13">fin</tspan>
         </text>
       </g>
       <g id="Line_21">

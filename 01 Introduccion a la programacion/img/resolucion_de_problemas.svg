@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="300 194 377 219" width="377" height="219">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="259 158 499 312" width="499" height="312">
   <defs>
-    <font-face font-family="Bradley Hand" font-size="14" panose-1="0 0 7 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-166" underline-thickness="61" slope="0" x-height="494" cap-height="543" ascent="850.0061" descent="-399.00208" font-weight="700" font-stretch="expanded">
-      <font-face-src>
-        <font-face-name name="BradleyHandITCTT-Bold"/>
-      </font-face-src>
-    </font-face>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 7 6" markerWidth="7" markerHeight="6" color="#5e5e5e">
       <g>
         <path d="M 2.5 0 L -1.5 -1.5 L 0 0 L 0 0 L -1.5 1.5 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
@@ -17,55 +12,47 @@
         <path d="M 2.5 0 L -1.5 -1.5 L 0 0 L 0 0 L -1.5 1.5 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <font-face font-family="Bradley Hand" font-size="12" panose-1="0 0 7 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-166" underline-thickness="61" slope="0" x-height="494" cap-height="543" ascent="850.0061" descent="-399.00208" font-weight="700" font-stretch="expanded">
-      <font-face-src>
-        <font-face-name name="BradleyHandITCTT-Bold"/>
-      </font-face-src>
-    </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.11.5 
-    <dc:date>2021-08-28 02:38:53 +0000</dc:date>
-  </metadata>
-  <g id="Canvas_1" stroke="none" stroke-opacity="1" fill="none" fill-opacity="1" stroke-dasharray="none">
+  <g id="Canvas_1" stroke-opacity="1" fill="none" fill-opacity="1" stroke="none" stroke-dasharray="none">
     <title>Canvas 1</title>
-    <g id="Canvas_1: Layer 1">
+    <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Graphic_4">
-        <text transform="translate(329.3815 199.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="73896445e-20" y="12">Análisis del problema</tspan>
+        <text transform="translate(297.35775 163.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="18" fill="black" x="0" y="15">Análisis del problema</tspan>
         </text>
       </g>
       <g id="Graphic_5">
-        <text transform="translate(333.0495 294.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="0" y="12">Diseño del algoritmo</tspan>
+        <text transform="translate(289 294.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="18" fill="black" x="13.073751" y="15">Diseño del algoritmo</tspan>
         </text>
       </g>
       <g id="Graphic_41">
-        <text transform="translate(316.3195 389.5)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="14" font-weight="700" fill="black" x="61106675e-20" y="12">Verificación del algoritmo</tspan>
+        <text transform="translate(277.02963 425.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="18" fill="black" x="3.5341265" y="15">Verificación del algoritmo</tspan>
         </text>
       </g>
       <g id="Line_54">
-        <path d="M 311.3195 393.83334 C 289.9472 340.4269 304.96308 308.58727 323.75933 304.48195 M 311.3195 393.83334 C 290.1972 340.1769 305.21308 308.33727 324.00933 304.23195" marker-end="url(#SharpArrow_Marker)" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path d="M 272.02963 431.1667 C 250.6395 377.71575 261.58425 314.65186 279.81347 306.84877 M 272.02963 431.1667 C 250.8895 377.46575 261.83425 314.40186 280.06347 306.59877" marker-end="url(#SharpArrow_Marker)" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_56">
-        <path d="M 395.7065 222.5 C 393.68407 238.4971 394.10817 267.2161 395.46146 285.1075 M 395.7065 222.5 C 393.93407 238.2471 394.35817 266.9661 395.71146 284.8575" marker-end="url(#SharpArrow_Marker_2)" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path d="M 382.63275 190.5 C 380.59703 206.60222 381.02547 263.8513 382.41033 285.1044 M 382.63275 190.5 C 380.84703 206.35222 381.27547 263.6013 382.66033 284.8544" marker-end="url(#SharpArrow_Marker_2)" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_57">
-        <path d="M 395.7065 317.5 C 393.235 335.94617 393.0801 360.11523 395.46146 380.1075 M 395.7065 317.5 C 393.485 335.69617 393.3301 359.86523 395.71146 379.8575" marker-end="url(#SharpArrow_Marker_2)" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path d="M 382.63275 321.5 C 380.145 340.0674 379.8049 392.3571 382.41033 416.1044 M 382.63275 321.5 C 380.395 339.8174 380.0549 392.1071 382.66033 415.8544" marker-end="url(#SharpArrow_Marker_2)" stroke="#5e5e5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_67">
-        <text transform="translate(426.5 223)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="0" y="10">1. Definición del problema</tspan>
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="0" y="25">2. Especificación de entradas</tspan>
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="0" y="40">3. Especificación de salidas</tspan>
+        <text transform="translate(426.5 195.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="14">1. Definición del problema</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="34">2. Especificación de entradas</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="54">3. Especificación de salidas</tspan>
         </text>
       </g>
       <g id="Graphic_68">
-        <text transform="translate(426.5 318)" fill="black">
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="0" y="10">1. Diseño modular (descomposición funcional)</tspan>
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="0" y="25">2. Representación del algoritmo</tspan>
-          <tspan font-family="Bradley Hand" font-size="12" font-weight="700" fill="black" x="0" y="40">3. Refinamiento sucesivo</tspan>
+        <text transform="translate(426.5 326.5)" fill="black">
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="14">1. Diseño modular (descomposición funcional)</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="34">2. Representación del algoritmo</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="16" fill="black" x="0" y="54">3. Refinamiento sucesivo</tspan>
         </text>
       </g>
     </g>
