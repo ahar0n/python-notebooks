@@ -1,14 +1,13 @@
--- Cantidad de estudiantes, separados por genero, que postularon a una carrera técnica (nivel de carrera) por cada ciudad de origen (colegio) y por cada año.
--- Libro, Genero, Ciudad, fecha, Cantidad
+-- Cantidad de ventas diarias agrupadas por fecha, libro, genero, comuna. Sistema OLTP Libreria
 USE Libreria;
-SELECT date_format(Pedido.fecha, '%d-%m-%Y') AS 'fecha',
-    Libro.Titulo AS 'Libro',
-    Genero.Nombre AS 'Genero',
-    Ciudad.Nombre AS 'Ciudad',
-    sum(Pedido.Cantidad) AS 'cantidad'
-FROM Pedido, Libro, Genero, Ciudad, Cliente
-WHERE Pedido.LibroID = Libro.LibroID
-    AND Libro.GeneroID = Genero.GeneroID
-    AND Pedido.ClienteID = Cliente.ClienteID
-    AND Cliente.CiudadID = Ciudad.CiudadID
-GROUP BY date_format(Pedido.fecha, '%d-%m-%Y'), Libro.Titulo, Genero.Nombre, Ciudad.Nombre;
+SELECT date(Pedido.Fecha) as fecha,
+    Libro.Titulo AS libro,
+    Genero.Nombre AS genero,
+    Comuna.Nombre AS comuna,
+    sum(Pedido.Cantidad) AS cantidad
+FROM Pedido
+INNER JOIN Libro ON Libro.LibroID = Pedido.LibroID
+INNER JOIN Genero ON Genero.GeneroID = Libro.GeneroID
+INNER JOIN Cliente ON Cliente.ClienteID = Pedido.ClienteID
+INNER JOIN Comuna ON Comuna.ComunaID = Cliente.ComunaID
+GROUP BY fecha, libro, genero, comuna;

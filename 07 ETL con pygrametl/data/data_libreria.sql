@@ -39,3 +39,6 @@ INSERT INTO Libreria.Pedido (ClienteID, LibroID, Cantidad, Fecha) VALUES('192871
 INSERT INTO Libreria.Pedido (ClienteID, LibroID, Cantidad, Fecha) VALUES('15287123K',2,1,'2010-04-04 11:00:00');
 INSERT INTO Libreria.Pedido (ClienteID, LibroID, Cantidad, Fecha) VALUES('15287123K',6,1,'2011-01-11 13:00:00');
 INSERT INTO Libreria.Pedido (ClienteID, LibroID, Cantidad, Fecha) VALUES('19287123K',3,2,'2012-08-03 11:00:00');
+INSERT INTO Libreria.Pedido (ClienteID, LibroID, Cantidad, Fecha) VALUES('15287123K',1,2,'2012-08-03 09:00:00');
+INSERT INTO Libreria.Pedido (ClienteID, LibroID, Cantidad, Fecha) VALUES('17171171K',1,6,'2012-08-03 09:00:00');
+INSERT INTO Libreria.Pedido (ClienteID, LibroID, Cantidad, Fecha) VALUES('181234321',1,4,'2012-08-03 09:00:00');
