@@ -3,8 +3,8 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -17,
-    "scrollLeft": -2,
+    "scrollTop": -14,
+    "scrollLeft": 0,
     "zoomLevel": 1,
     "show": {
       "tableComment": true,
@@ -415,13 +415,36 @@
               "widthDefault": 60
             },
             "id": "2c176c0b-b0c6-422a-92fa-ea24d778ee5f"
+          },
+          {
+            "name": "Trimestre",
+            "comment": "",
+            "dataType": "INT",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 60,
+              "widthComment": 60,
+              "widthDataType": 60,
+              "widthDefault": 60
+            },
+            "id": "a0aa923c-d784-4749-8b71-b0d12f9dec87"
           }
         ],
         "ui": {
           "active": false,
           "left": 715.4161,
           "top": 414.8071,
-          "zIndex": 6,
+          "zIndex": 4,
           "widthName": 60,
           "widthComment": 63.41357421875
         },
@@ -472,7 +495,7 @@
             "4feee15e-eb3b-429e-8382-02007a76fa8f"
           ],
           "x": 715.4161,
-          "y": 490.3071,
+          "y": 500.5571,
           "direction": "left"
         },
         "end": {

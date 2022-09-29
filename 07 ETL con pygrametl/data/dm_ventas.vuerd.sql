@@ -1,6 +1,8 @@
 CREATE DATABASE VentasDM;
 USE VentasDM;
         
+
+        
 CREATE TABLE Libro
 (
   LibroID INT          NOT NULL,
@@ -23,6 +25,7 @@ CREATE TABLE Tiempo
   Dia       INT NOT NULL,
   Mes       INT NOT NULL,
   Anio      INT NOT NULL,
+  Trimestre INT NOT NULL,
   PRIMARY KEY (TiempoID)
 ) COMMENT 'Dimension';
 
