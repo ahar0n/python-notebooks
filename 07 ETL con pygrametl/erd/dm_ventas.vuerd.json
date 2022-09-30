@@ -3,7 +3,7 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": -14,
+    "scrollTop": -68,
     "scrollLeft": 0,
     "zoomLevel": 1,
     "show": {
@@ -143,7 +143,7 @@
           "active": false,
           "left": 320.9175,
           "top": 336.2217,
-          "zIndex": 2,
+          "zIndex": 15,
           "widthName": 60,
           "widthComment": 60
         },
@@ -228,7 +228,7 @@
           "active": false,
           "left": 202.1126,
           "top": 76.75,
-          "zIndex": 1,
+          "zIndex": 16,
           "widthName": 60,
           "widthComment": 63.41357421875
         },
@@ -313,7 +313,7 @@
           "active": false,
           "left": 40.8347,
           "top": 565.4995,
-          "zIndex": 3,
+          "zIndex": 18,
           "widthName": 73.54443359375,
           "widthComment": 63.41357421875
         },
@@ -346,6 +346,29 @@
               "widthDefault": 60
             },
             "id": "4feee15e-eb3b-429e-8382-02007a76fa8f"
+          },
+          {
+            "name": "Fecha",
+            "comment": "",
+            "dataType": "DATE",
+            "default": "",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": true
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 60,
+              "widthComment": 60,
+              "widthDataType": 60,
+              "widthDefault": 60
+            },
+            "id": "eebbc7bf-e681-4874-802b-c3b5abee5b5a"
           },
           {
             "name": "Dia",
@@ -444,7 +467,7 @@
           "active": false,
           "left": 715.4161,
           "top": 414.8071,
-          "zIndex": 4,
+          "zIndex": 17,
           "widthName": 60,
           "widthComment": 63.41357421875
         },
@@ -495,7 +518,7 @@
             "4feee15e-eb3b-429e-8382-02007a76fa8f"
           ],
           "x": 715.4161,
-          "y": 500.5571,
+          "y": 510.8071,
           "direction": "left"
         },
         "end": {

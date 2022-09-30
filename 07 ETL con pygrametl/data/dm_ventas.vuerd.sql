@@ -1,8 +1,6 @@
 CREATE DATABASE VentasDM;
 USE VentasDM;
-        
-
-        
+            
 CREATE TABLE Libro
 (
   LibroID INT          NOT NULL,
@@ -22,6 +20,7 @@ CREATE TABLE Localizacion
 CREATE TABLE Tiempo
 (
   TiempoID  INT NOT NULL,
+  Fecha     DATE NOT NULL,
   Dia       INT NOT NULL,
   Mes       INT NOT NULL,
   Anio      INT NOT NULL,
