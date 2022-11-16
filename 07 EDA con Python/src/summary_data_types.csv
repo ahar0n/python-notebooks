@@ -1,0 +1,11 @@
+
+Measure,Nominal,Ordinal,Interval,Ratio
+Ordenar valores,N,Y,Y,Y
+Fecuencia (contar),Y,Y,Y,Y
+Moda,Y,Y,Y,Y
+Medaiana,N,Y,Y,Y
+Media,N,N,Y,Y
+Cuantificar la diferencia valores,N,N,Y,Y
+Sumar y sustraer valores,N,N,Y,Y
+Multiplicar y dividir valores,N,N,N,Y
+Existe el cero,N,N,N,Y
