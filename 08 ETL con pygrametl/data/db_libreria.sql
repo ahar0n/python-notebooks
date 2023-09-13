@@ -1,61 +1,62 @@
-CREATE DATABASE Libreria;
-USE Libreria;
+CREATE DATABASE libreria;
+USE libreria;
 
-CREATE TABLE Libro(
-    LibroID INT PRIMARY KEY, 
-    Titulo VARCHAR(500) NOT NULL, 
-    Autor VARCHAR(500),
-    EditorialID INT NOT NULL,
-    GeneroID INT NOT NULL
+CREATE TABLE genero(
+    id_genero INT NOT NULL ,
+    nombre VARCHAR(200) NOT NULL,
+    CONSTRAINT pk_genero PRIMARY KEY (id_genero)
 );
 
-CREATE TABLE Genero(
-    GeneroID int PRIMARY KEY,
-    Nombre varchar(200) NOT NULL
+CREATE TABLE editorial(
+    id_editorial INT NOT NULL ,
+    nombre VARCHAR(200) NOT NULL,
+    CONSTRAINT pk_editorial PRIMARY KEY (id_editorial)
 );
 
-CREATE TABLE Editorial(
-    EditorialID int PRIMARY KEY,
-    Nombre varchar(200) NOT NULL
+CREATE TABLE libro(
+    id_libro INT NOT NULL ,
+    titulo VARCHAR(500) NOT NULL,
+    autor VARCHAR(500),
+    editorial INT NOT NULL,
+    genero INT NOT NULL,
+    CONSTRAINT pk_libro PRIMARY KEY (id_libro),
+    CONSTRAINT fk_libro_genero FOREIGN KEY (genero)
+        REFERENCES genero(id_genero)
+        ON DELETE NO ACTION ON UPDATE NO ACTION ,
+    CONSTRAINT fk_libro_editorial FOREIGN KEY (editorial)
+        REFERENCES editorial(id_editorial)
+        ON DELETE NO ACTION ON UPDATE NO ACTION
 );
 
-ALTER TABLE Libro ADD CONSTRAINT fk_Libro_Genero foreign key(GeneroID)
-references Genero(GeneroID)
-on delete no action on update no action;
-
-ALTER TABLE Libro ADD CONSTRAINT fk_Libro_Editorial foreign key(EditorialID)
-references Editorial(EditorialID)
-on delete no action on update no action;
-
-CREATE TABLE Cliente(
-    ClienteID varchar(9) PRIMARY KEY,
-    NombreCliente varchar(100),
-    ApellidoCliente varchar(100) NOT NULL,
-    Direccion varchar(500),
-    ComunaID int NOT NULL
+CREATE TABLE comuna(
+    id_comuna INT NOT NULL ,
+    nombre VARCHAR(200) NOT NULL,
+    CONSTRAINT pk_comuna PRIMARY KEY (id_comuna)
 );
 
-CREATE TABLE Comuna(
-    ComunaID int PRIMARY KEY,
-    Nombre varchar(200) NOT NULL
+CREATE TABLE cliente(
+    id_cliente VARCHAR(9) NOT NULL ,
+    nombre VARCHAR(100),
+    apellido VARCHAR(100) NOT NULL,
+    direccion VARCHAR(500),
+    comuna INT NOT NULL,
+    CONSTRAINT pk_cliente PRIMARY KEY (id_cliente),
+    CONSTRAINT fk_cliente_comuna FOREIGN KEY (comuna)
+        REFERENCES comuna(id_comuna)
+        ON DELETE NO ACTION ON UPDATE NO ACTION
 );
 
-ALTER TABLE Cliente ADD CONSTRAINT fk_Cliente_Comuna foreign key(ComunaID)
-references Comuna(ComunaID)
-on delete no action on update no action;
-
-CREATE TABLE Pedido(
-    OrdenID int AUTO_INCREMENT PRIMARY KEY,
-    ClienteID varchar(9) NOT NULL,
-    LibroID int NOT NULL,
-    Cantidad INT NOT NULL,
-    Fecha datetime NOT NULL
+CREATE TABLE pedido(
+    orden INT AUTO_INCREMENT NOT NULL ,
+    cliente VARCHAR(9) NOT NULL,
+    libro INT NOT NULL,
+    cantidad INT NOT NULL,
+    fecha DATETIME NOT NULL,
+    CONSTRAINT pk_pedido PRIMARY KEY (orden),
+    CONSTRAINT fk_pedido_cliente FOREIGN KEY (cliente)
+        REFERENCES cliente(id_cliente)
+        ON DELETE NO ACTION ON UPDATE NO ACTION,
+    CONSTRAINT fk_pedido_libro FOREIGN KEY (libro)
+        REFERENCES libro(id_libro)
+        ON DELETE NO ACTION ON UPDATE NO ACTION
 );
-
-ALTER TABLE Pedido ADD CONSTRAINT fk_Pedido_Cliente foreign key(ClienteID)
-references Cliente(ClienteID)
-on delete no action on update no action;
-
-ALTER TABLE Pedido ADD CONSTRAINT fk_Pedido_Libro foreign key(LibroID)
-references Libro(LibroID)
-on delete no action on update no action;
