@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="310 21 154 408" width="154" height="408">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="310 21 154 408" width="154" height="408">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="SharpArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-2 -2 5 4" markerWidth="5" markerHeight="4" color="black">
       <g>
         <path d="M 1.5 0 L -.9 -.9 L 0 0 L 0 0 L -.9 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <font-face font-family="JetBrains Mono" font-size="14" panose-1="2 0 0 9 0 0 0 0 0 0" units-per-em="1000" underline-position="-155" underline-thickness="50" slope="0" x-height="550" cap-height="730" ascent="1020.0043" descent="-300.00305" font-weight="300">
-      <font-face-src>
-        <font-face-name name="JetBrainsMono-Light"/>
-      </font-face-src>
-    </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.11.5 
-    <dc:date>2021-09-03 05:09:36 +0000</dc:date>
-  </metadata>
-  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1" fill-opacity="1">
+  <g id="Canvas_1" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" stroke="none" fill="none">
     <title>Canvas 1</title>
-    <g id="Canvas_1: Layer 1">
+    <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Line_22">
         <path d="M 365.9405 22.5 C 364.3735 33.362423 365.77107 31.417293 366.08486 50.704495 M 365.9405 22.5 C 364.8735 32.862423 366.27107 30.917293 366.58486 50.204495" marker-end="url(#SharpArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
@@ -27,14 +19,14 @@
         <path d="M 366 125.5 L 419.5 149.9 L 366 174.3 L 312.5 149.9 Z" fill="white"/>
         <path d="M 365.7187 125.36858 L 419.6334 150.55832 M 419.4516 150.242 L 365.17716 174.65112 M 365.94615 174.63331 L 312.1234 149.7769 M 312.1572 150.51147 L 366.41664 125.30646 M 365.87427 125.17819 L 419.36413 150.1452 M 419.57825 150.12068 L 365.73205 174.38829 M 366.04795 174.55853 L 313.04185 150.0616 M 312.2609 150.34058 L 366.10227 125.32606" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
         <text transform="translate(331.945 140.412)" fill="black">
-          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="5.725" y="14">b&gt;mayor</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="5.634" y="12">b&gt;mayor</tspan>
         </text>
       </g>
       <g id="Graphic_25">
         <rect x="321" y="57" width="90" height="36" fill="white"/>
         <path d="M 320.33187 57.001 L 411.90235 56.86397 M 411.46077 56.02335 L 410.56984 93.71672 M 411.0583 93.41343 L 320.73185 92.85574 M 321.23984 93.85103 L 320.9954 56.291266 M 320.45677 56.81244 L 411.56585 56.71654 M 411.6201 55.89916 L 410.80757 93.28795 M 411.18314 93.31294 L 321.35792 92.80831 M 321.29988 93.72645 L 321.0458 56.875515" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
         <text transform="translate(326 66)" fill="black">
-          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="10.6" y="14">mayor=a</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="10.299" y="12">mayor=a</tspan>
         </text>
       </g>
       <g id="Line_26">
@@ -44,7 +36,7 @@
         <rect x="321" y="206.8" width="90" height="36" fill="white"/>
         <path d="M 320.17036 206.8002 L 411.48817 206.77833 M 411.05314 206.21455 L 411.0635 243.91843 M 412.04674 243.07552 L 320.7678 243.07063 M 321.43883 243.5175 L 320.99602 206.46725 M 320.29534 206.56207 L 411.17827 206.54932 M 411.1954 206.08955 L 411.25114 242.95045 M 412.17174 242.9913 L 321.5585 243.01044 M 321.4773 243.39355 L 321.00795 206.6764" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
         <text transform="translate(326 215.8)" fill="black">
-          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="10.6" y="14">mayor=b</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="10.509" y="12">mayor=b</tspan>
         </text>
       </g>
       <g id="Line_29">
@@ -54,7 +46,7 @@
         <path d="M 366 275.3 L 419.5 299.7 L 366 324.1 L 312.5 299.7 Z" fill="white"/>
         <path d="M 365.6035 275.11558 L 419.67315 300.26354 M 419.64134 299.9345 L 365.41316 323.90206 M 366.34424 323.74963 L 312.48277 299.4655 M 312.20277 299.8205 L 366.5297 275.05857 M 365.77256 274.8958 L 419.43386 299.9326 M 419.78556 299.853 L 366.22667 323.60153 M 366.46514 323.63374 L 312.81747 299.5447 M 312.28593 299.6037 L 366.11783 275.15927" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
         <text transform="translate(331.945 290.212)" fill="black">
-          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="5.725" y="14">c&gt;mayor</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="6.012" y="12">c&gt;mayor</tspan>
         </text>
       </g>
       <g id="Line_31">
@@ -67,7 +59,7 @@
         <rect x="321" y="356.6" width="90" height="36" fill="white"/>
         <path d="M 320.4012 356.6033 L 411.7979 356.09923 M 411.4273 355.2505 L 410.5288 393.471 M 411.3608 392.98466 L 320.99443 392.88993 M 321.44308 393.6783 L 320.98858 355.6439 M 320.52604 356.4492 L 411.53167 355.8623 M 411.5828 355.12623 L 410.74036 392.86057 M 411.4858 392.88594 L 321.55857 392.85566 M 321.44565 393.5548 L 321.06986 356.47566" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
         <text transform="translate(326 365.6)" fill="black">
-          <tspan font-family="JetBrains Mono" font-size="14" font-weight="300" fill="black" x="10.6" y="14">mayor=c</tspan>
+          <tspan font-family="Bradley Hand" font-weight="bold" font-size="14" fill="black" x="10.887" y="12">mayor=c</tspan>
         </text>
       </g>
       <g id="Line_34">
