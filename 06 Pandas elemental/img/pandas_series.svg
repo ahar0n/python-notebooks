@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="112 83 180 190" width="180" height="190">
+  <defs/>
+  <g id="Canvas_1" stroke-opacity="1" fill="none" stroke-dasharray="none" fill-opacity="1" stroke="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_24">
+        <g id="Graphic_28">
+          <rect x="203" y="84" width="88" height="32" fill="#98999f"/>
+          <rect x="203" y="84" width="88" height="32" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_27">
+          <title>Rectangle_1_copy</title>
+          <rect x="148" y="116" width="56" height="156" fill="#dbdbdb"/>
+          <rect x="148" y="116" width="56" height="156" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_26">
+          <title>Rectangle_1_copy_2</title>
+          <rect x="203" y="116" width="88" height="156" fill="white"/>
+          <rect x="203" y="116" width="88" height="156" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_25">
+          <title>Rectangle_1_copy_5</title>
+          <rect x="113" y="116" width="34" height="156" fill="#98999f"/>
+          <rect x="113" y="116" width="34" height="156" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_20">
+        <g id="Graphic_23">
+          <path d="M 148 152.683 L 148 152 L 292 152 L 292 152.687 L 148 152.687 Z" fill="#333838"/>
+        </g>
+        <g id="Graphic_22">
+          <title>Shape_8_copy</title>
+          <rect x="148" y="191.469" width="144" height=".687" fill="#333838"/>
+        </g>
+        <g id="Graphic_21">
+          <title>Shape_8_copy_2</title>
+          <rect x="148" y="232.327" width="144" height=".687" fill="#333838"/>
+        </g>
+      </g>
+      <g id="Group_10">
+        <g id="Graphic_14">
+          <title>p</title>
+          <text transform="translate(170.098 119.38385)" fill="#131313">
+            <tspan font-family="Fira Sans" font-size="24" fill="#131313" x="0" y="22" xml:space="preserve">p</tspan>
+          </text>
+        </g>
+        <g id="Graphic_13">
+          <title>q</title>
+          <text transform="translate(170.098 154.38385)" fill="#121212">
+            <tspan font-family="Fira Sans" font-size="24" fill="#121212" x="0" y="22" xml:space="preserve">q</tspan>
+          </text>
+        </g>
+        <g id="Graphic_12">
+          <title>r</title>
+          <text transform="translate(172.098 196.83885)" fill="#121212">
+            <tspan font-family="Fira Sans" font-size="24" fill="#121212" x="0" y="22" xml:space="preserve">r</tspan>
+          </text>
+        </g>
+        <g id="Graphic_11">
+          <title>s</title>
+          <text transform="translate(170.098 235.52985)" fill="#121212">
+            <tspan font-family="Fira Sans" font-size="24" fill="#121212" x="0" y="22" xml:space="preserve">s</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_9">
+        <title>Data</title>
+        <text transform="translate(226.25 84.55469)" fill="white">
+          <tspan font-family="Fira Sans" font-size="24" fill="white" x="0" y="22" xml:space="preserve">data</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="202.008" y="115" width=".992" height="1" fill="#464646"/>
+      </g>
+      <g id="Group_2">
+        <g id="Graphic_7">
+          <title>x</title>
+          <text transform="translate(124.053 224.3292)" fill="white">
+            <tspan font-family="Fira Sans" font-size="24" fill="white" x="0" y="22" xml:space="preserve">x</tspan>
+          </text>
+        </g>
+        <g id="Graphic_6">
+          <title>e</title>
+          <text transform="translate(122.684 201.0882)" fill="white">
+            <tspan font-family="Fira Sans" font-size="24" fill="white" x="0" y="22" xml:space="preserve">e</tspan>
+          </text>
+        </g>
+        <g id="Graphic_5">
+          <title>d</title>
+          <text transform="translate(122 179.1752)" fill="white">
+            <tspan font-family="Fira Sans" font-size="24" fill="white" x="0" y="22" xml:space="preserve">d</tspan>
+          </text>
+        </g>
+        <g id="Graphic_4">
+          <title>n</title>
+          <text transform="translate(122 151.9502)" fill="white">
+            <tspan font-family="Fira Sans" font-size="24" fill="white" x="0" y="22" xml:space="preserve">n</tspan>
+          </text>
+        </g>
+        <g id="Graphic_3">
+          <title>I</title>
+          <text transform="translate(125.193 129.5942)" fill="white">
+            <tspan font-family="Fira Sans" font-size="24" fill="white" x="0" y="22" xml:space="preserve">i</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_29">
+        <text transform="translate(231.886 122.62235)" fill="black">
+          <tspan font-family="Fira Sans" font-size="24" fill="black" x="1.188" y="22" xml:space="preserve">1.0</tspan>
+          <tspan font-family="Fira Sans" font-size="24" fill="black" x=".444" y="60" xml:space="preserve">2.0</tspan>
+          <tspan font-family="Fira Sans" font-size="24" fill="black" x=".396" y="98" xml:space="preserve">3.0</tspan>
+          <tspan font-family="Fira Sans" font-size="24" fill="black" x="71409545e-20" y="136" xml:space="preserve">4.0</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

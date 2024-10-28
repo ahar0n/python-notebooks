@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="182 185 328 155" width="328" height="155">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.24\n2024-10-28 04:03:04 +0000</metadata>
+  <g id="Canvas_1" stroke-opacity="1" fill="none" stroke-dasharray="none" fill-opacity="1" stroke="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_25">
+        <title>array</title>
+        <g id="Group_26">
+          <title>Array-2</title>
+          <g id="Graphic_44">
+            <rect x="284" y="214" width="224" height="27" fill="#98999f"/>
+            <rect x="284" y="214" width="224" height="27" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_43">
+            <title>Rectangle_1_copy_5</title>
+            <rect x="183" y="241" width="27" height="98" fill="#98999f"/>
+            <rect x="183" y="241" width="27" height="98" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_42">
+            <title>Rectangle_1_copy_6</title>
+            <rect x="284" y="186" width="224" height="27" fill="#e4e5ea"/>
+            <rect x="284" y="186" width="224" height="27" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Group_37">
+            <g id="Graphic_41">
+              <title>Rectangle_1_copy</title>
+              <rect x="211" y="241" width="74" height="98" fill="#dbdbdb"/>
+              <rect x="211" y="241" width="74" height="98" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_40">
+              <title>Rectangle_1_copy_2</title>
+              <rect x="284" y="241" width="74" height="98" fill="white"/>
+              <rect x="284" y="241" width="74" height="98" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_39">
+              <title>Rectangle_1_copy_3</title>
+              <rect x="359" y="241" width="74" height="98" fill="white"/>
+              <rect x="359" y="241" width="74" height="98" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_38">
+              <title>Rectangle_1_copy_4</title>
+              <rect x="434" y="241" width="74" height="98" fill="white"/>
+              <rect x="434" y="241" width="74" height="98" stroke="#313e3f" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_34">
+            <g id="Graphic_36">
+              <path d="M 210 271.578 L 210 271 L 509.006 271 L 509.006 271.581 L 210 271.581 Z" fill="#333838"/>
+            </g>
+            <g id="Graphic_35">
+              <title>Shape_8_copy</title>
+              <rect x="210" y="304.339" width="299.006" height=".58" fill="#333838"/>
+            </g>
+          </g>
+          <g id="Group_30">
+            <g id="Graphic_33">
+              <title>_3</title>
+              <text transform="translate(243.006 307.7631)" fill="#131313">
+                <tspan font-family="Fira Sans" font-size="18" fill="#131313" x="0" y="17" xml:space="preserve">3</tspan>
+              </text>
+            </g>
+            <g id="Graphic_32">
+              <title>_2</title>
+              <text transform="translate(243.006 274.7631)" fill="#131313">
+                <tspan font-family="Fira Sans" font-size="18" fill="#131313" x="0" y="17" xml:space="preserve">2</tspan>
+              </text>
+            </g>
+            <g id="Graphic_31">
+              <title>_1</title>
+              <text transform="translate(243.006 243.7631)" fill="#131313">
+                <tspan font-family="Fira Sans" font-size="18" fill="#131313" x="0" y="17" xml:space="preserve">1</tspan>
+              </text>
+            </g>
+          </g>
+          <g id="Graphic_29">
+            <title>Shape_10_copy</title>
+            <rect x="358.086" y="213.642" width=".84" height="27.036" fill="#464646"/>
+          </g>
+          <g id="Graphic_28">
+            <title>Shape_10_copy_2</title>
+            <rect x="433.4" y="213.642" width=".839" height="27.036" fill="#464646"/>
+          </g>
+          <g id="Graphic_27">
+            <title>Columns_list</title>
+            <text transform="translate(378.9553 186.56052)" fill="#313131">
+              <tspan font-family="Fira Sans" font-size="18" fill="#313131" x="58264504e-20" y="17" xml:space="preserve">data</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_15">
+        <title>Group_6_copy</title>
+        <g id="Graphic_24">
+          <title>P</title>
+          <text transform="translate(314.833 215.38477)" fill="white">
+            <tspan font-family="Fira Sans" font-size="18" fill="white" x="0" y="17" xml:space="preserve">p</tspan>
+          </text>
+        </g>
+        <g id="Group_18">
+          <g id="Graphic_23">
+            <title>x</title>
+            <text transform="translate(192 313.71777)" fill="white">
+              <tspan font-family="Fira Sans" font-size="18" fill="white" x="0" y="17" xml:space="preserve">x</tspan>
+            </text>
+          </g>
+          <g id="Graphic_22">
+            <title>e</title>
+            <text transform="translate(191 296.21777)" fill="white">
+              <tspan font-family="Fira Sans" font-size="18" fill="white" x="0" y="17" xml:space="preserve">e</tspan>
+            </text>
+          </g>
+          <g id="Graphic_21">
+            <title>d</title>
+            <text transform="translate(190.5 279.71777)" fill="white">
+              <tspan font-family="Fira Sans" font-size="18" fill="white" x="0" y="17" xml:space="preserve">d</tspan>
+            </text>
+          </g>
+          <g id="Graphic_20">
+            <title>n</title>
+            <text transform="translate(190.5 259.21777)" fill="white">
+              <tspan font-family="Fira Sans" font-size="18" fill="white" x="0" y="17" xml:space="preserve">n</tspan>
+            </text>
+          </g>
+          <g id="Graphic_19">
+            <title>I</title>
+            <text transform="translate(192.833 242.38477)" fill="white">
+              <tspan font-family="Fira Sans" font-size="18" fill="white" x="0" y="17" xml:space="preserve">i</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Graphic_17">
+          <title>Q</title>
+          <text transform="translate(390.833 215.50977)" fill="white">
+            <tspan font-family="Fira Sans" font-size="18" fill="white" x="0" y="17" xml:space="preserve">q</tspan>
+          </text>
+        </g>
+        <g id="Graphic_16">
+          <title>R</title>
+          <text transform="translate(465.833 215.50977)" fill="white">
+            <tspan font-family="Fira Sans" font-size="18" fill="white" x="0" y="17" xml:space="preserve">r</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_2">
+        <title>Group_7_copy</title>
+        <g id="Group_11">
+          <g id="Graphic_14">
+            <title>_20</title>
+            <text transform="translate(311.843 307.2731)" fill="#3b3b3b">
+              <tspan font-family="Fira Sans" font-size="18" fill="#3b3b3b" x="0" y="17" xml:space="preserve">20</tspan>
+            </text>
+          </g>
+          <g id="Graphic_13">
+            <title>_0</title>
+            <text transform="translate(315.843 274.2731)" fill="#3b3b3b">
+              <tspan font-family="Fira Sans" font-size="18" fill="#3b3b3b" x="0" y="17" xml:space="preserve">0</tspan>
+            </text>
+          </g>
+          <g id="Graphic_12">
+            <title>_0-2</title>
+            <text transform="translate(315.843 243.2731)" fill="#3b3b3b">
+              <tspan font-family="Fira Sans" font-size="18" fill="#3b3b3b" x="0" y="17" xml:space="preserve">0</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_7">
+          <title>Group_3_copy</title>
+          <g id="Graphic_10">
+            <title>_30</title>
+            <text transform="translate(389.545 307.2731)" fill="#3b3b3b">
+              <tspan font-family="Fira Sans" font-size="18" fill="#3b3b3b" x="0" y="17" xml:space="preserve">30</tspan>
+            </text>
+          </g>
+          <g id="Graphic_9">
+            <title>_6</title>
+            <text transform="translate(393.545 274.2731)" fill="#3b3b3b">
+              <tspan font-family="Fira Sans" font-size="18" fill="#3b3b3b" x="0" y="17" xml:space="preserve">6</tspan>
+            </text>
+          </g>
+          <g id="Graphic_8">
+            <title>_4</title>
+            <text transform="translate(393.545 243.2731)" fill="#3b3b3b">
+              <tspan font-family="Fira Sans" font-size="18" fill="#3b3b3b" x="0" y="17" xml:space="preserve">4</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_3">
+          <title>Group_3_copy_2</title>
+          <g id="Graphic_6">
+            <title>_40</title>
+            <text transform="translate(462.42 307.2731)" fill="#3b3b3b">
+              <tspan font-family="Fira Sans" font-size="18" fill="#3b3b3b" x="0" y="17" xml:space="preserve">40</tspan>
+            </text>
+          </g>
+          <g id="Graphic_5">
+            <title>_7</title>
+            <text transform="translate(466.42 274.2731)" fill="#3b3b3b">
+              <tspan font-family="Fira Sans" font-size="18" fill="#3b3b3b" x="0" y="17" xml:space="preserve">7</tspan>
+            </text>
+          </g>
+          <g id="Graphic_4">
+            <title>_5</title>
+            <text transform="translate(466.42 243.2731)" fill="#3b3b3b">
+              <tspan font-family="Fira Sans" font-size="18" fill="#3b3b3b" x="0" y="17" xml:space="preserve">5</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
